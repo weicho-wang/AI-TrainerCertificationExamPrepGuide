@@ -19,9 +19,9 @@
 <p align="center">
   简体中文
   ｜
-  <a href="https://github.com/krahets/hello-algo/blob/main/zh-hant/README.md">繁體中文</a>
+  <a href="https://github.com/weicho-wang/AI-TrainerCertificationExamPrepGuide/blob/main/zh-hant/README.md">繁體中文</a>
   ｜
-  <a href="https://github.com/krahets/hello-algo/blob/main/en/README.md">English</a>
+  <a href="https://github.com/weicho-wang/AI-TrainerCertificationExamPrepGuide/blob/main/en/README.md">English</a>
 </p>
 
 ## 关于本项目
