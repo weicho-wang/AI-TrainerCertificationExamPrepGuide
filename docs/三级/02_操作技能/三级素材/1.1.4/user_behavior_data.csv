@@ -1,0 +1,1001 @@
+UserID,UserName,Age,Gender,Location,LastLogin,PurchaseAmount,PurchaseCategory,ReviewScore,LoginFrequency
+1,User_1,62,Female,Location_1,2023-06-10,118,Clothing,3,Monthly
+2,User_2,65,Female,Location_2,2023-08-14,466,Electronics,4,Weekly
+3,User_3,18,Male,Location_3,2023-02-17,869,Home & Garden,3,Weekly
+4,User_4,21,Female,Location_4,2023-03-14,486,Books,2,Weekly
+5,User_5,21,Male,Location_5,2023-07-26,753,Home & Garden,1,Monthly
+6,User_6,57,Female,Location_6,2023-02-20,629,Books,2,Monthly
+7,User_7,27,Female,Location_7,2023-01-27,113,Home & Garden,1,Weekly
+8,User_8,37,Female,Location_8,2023-03-11,109,Home & Garden,1,Daily
+9,User_9,39,Female,Location_9,2023-01-06,424,Food,2,Weekly
+10,User_10,68,Female,Location_10,2023-10-04,766,Home & Garden,2,Monthly
+11,User_11,54,Male,Location_11,2023-03-22,947,Books,4,Daily
+12,User_12,41,Male,Location_12,2023-03-23,768,Food,2,Daily
+13,User_13,24,Female,Location_13,2023-11-10,403,Home & Garden,5,Daily
+14,User_14,42,Female,Location_14,2023-03-09,896,Food,3,Weekly
+15,User_15,42,Male,Location_15,2023-08-16,830,Home & Garden,4,Daily
+16,User_16,30,Male,Location_16,2023-06-03,309,Clothing,1,Daily
+17,User_17,19,Female,Location_17,2023-04-03,859,Food,5,Monthly
+18,User_18,56,Female,Location_18,2023-08-26,956,Books,2,Weekly
+19,User_19,57,Female,Location_19,2023-07-18,410,Clothing,2,Daily
+20,User_20,41,Female,Location_20,2023-11-24,74,Home & Garden,5,Daily
+21,User_21,64,Male,Location_21,2023-06-22,804,Home & Garden,3,Monthly
+22,User_22,42,Male,Location_22,2023-11-14,145,Clothing,5,Monthly
+23,User_23,35,Male,Location_23,2023-06-01,448,Electronics,1,Daily
+24,User_24,55,Male,Location_24,2023-11-17,860,Clothing,5,Daily
+25,User_25,43,Male,Location_25,2023-09-01,964,Books,4,Daily
+26,User_26,31,Male,Location_26,2023-07-08,341,Home & Garden,5,Daily
+27,User_27,26,Female,Location_27,2023-12-10,323,Food,5,Weekly
+28,User_28,27,Female,Location_28,2023-05-15,708,Electronics,1,Daily
+29,User_29,38,Male,Location_29,2023-01-18,982,Food,1,Weekly
+30,User_30,69,Male,Location_30,2023-02-14,279,Clothing,3,Weekly
+31,User_31,34,Male,Location_31,2023-01-25,978,Home & Garden,1,Daily
+32,User_32,69,Male,Location_32,2023-02-13,242,Books,1,Daily
+33,User_33,23,Female,Location_33,2023-11-30,796,Clothing,1,Monthly
+34,User_34,33,Female,Location_34,2023-02-09,155,Clothing,5,Weekly
+35,User_35,65,Male,Location_35,2023-09-21,180,Food,5,Weekly
+36,User_36,18,Male,Location_36,2023-08-03,310,Food,1,Daily
+37,User_37,36,Female,Location_37,2023-09-01,236,Home & Garden,2,Daily
+38,User_38,53,Male,Location_38,2023-10-11,725,Food,1,Daily
+39,User_39,42,Female,Location_39,2023-09-21,865,Electronics,1,Daily
+40,User_40,67,Female,Location_40,2023-10-04,848,Home & Garden,3,Monthly
+41,User_41,69,Male,Location_41,2023-05-08,216,Books,1,Daily
+42,User_42,47,Male,Location_42,2023-10-14,568,Electronics,1,Monthly
+43,User_43,37,Female,Location_43,2023-09-10,576,Clothing,3,Daily
+44,User_44,37,Female,Location_44,2023-07-30,700,Food,1,Daily
+45,User_45,32,Male,Location_45,2023-01-25,53,Books,1,Weekly
+46,User_46,57,Female,Location_46,2023-12-31,587,Home & Garden,4,Daily
+47,User_47,50,Male,Location_47,2023-04-11,984,Food,3,Weekly
+48,User_48,19,Male,Location_48,2023-09-08,367,Electronics,3,Weekly
+49,User_49,27,Female,Location_49,2023-01-29,272,Clothing,4,Daily
+50,User_50,50,Female,Location_50,2023-10-29,131,Clothing,3,Monthly
+51,User_51,49,Male,Location_51,2023-04-29,185,Food,2,Weekly
+52,User_52,28,Male,Location_52,2023-02-12,182,Home & Garden,5,Daily
+53,User_53,70,Female,Location_53,2023-06-26,787,Home & Garden,5,Monthly
+54,User_54,41,Male,Location_54,2023-11-08,525,Food,3,Weekly
+55,User_55,53,Male,Location_55,2023-03-15,403,Food,5,Weekly
+56,User_56,29,Male,Location_56,2023-08-28,133,Food,1,Weekly
+57,User_57,68,Female,Location_57,2023-12-13,766,Books,1,Weekly
+58,User_58,46,Female,Location_58,2023-06-18,517,Food,2,Monthly
+59,User_59,52,Female,Location_59,2023-06-03,44,Books,4,Monthly
+60,User_60,18,Male,Location_60,2023-08-29,488,Electronics,5,Daily
+61,User_61,18,Female,Location_61,2023-06-25,523,Food,2,Weekly
+62,User_62,54,Female,Location_62,2023-06-19,304,Food,5,Weekly
+63,User_63,23,Male,Location_63,2023-07-16,216,Home & Garden,1,Weekly
+64,User_64,56,Male,Location_64,2023-06-07,986,Food,2,Weekly
+65,User_65,58,Female,Location_65,2023-08-10,872,Books,2,Weekly
+66,User_66,70,Female,Location_66,2023-06-30,444,Books,4,Weekly
+67,User_67,35,Female,Location_67,2023-08-21,151,Food,1,Monthly
+68,User_68,33,Female,Location_68,2023-09-27,864,Books,2,Weekly
+69,User_69,22,Male,Location_69,2023-03-29,56,Food,1,Monthly
+70,User_70,59,Female,Location_70,2023-08-23,865,Electronics,1,Daily
+71,User_71,60,Female,Location_71,2023-02-17,815,Books,3,Monthly
+72,User_72,49,Male,Location_72,2023-01-18,871,Books,3,Daily
+73,User_73,19,Male,Location_73,2023-07-16,759,Books,4,Daily
+74,User_74,19,Female,Location_74,2023-02-05,756,Books,1,Monthly
+75,User_75,57,Female,Location_75,2023-09-21,356,Food,3,Monthly
+76,User_76,59,Female,Location_76,2023-10-01,92,Food,5,Weekly
+77,User_77,53,Female,Location_77,2023-09-28,992,Electronics,1,Weekly
+78,User_78,56,Female,Location_78,2023-09-15,528,Food,2,Daily
+79,User_79,29,Male,Location_79,2023-10-02,596,Books,1,Daily
+80,User_80,64,Male,Location_80,2023-03-02,437,Electronics,2,Monthly
+81,User_81,36,Female,Location_81,2023-10-22,523,Clothing,4,Daily
+82,User_82,45,Male,Location_82,2023-01-08,467,Home & Garden,3,Weekly
+83,User_83,18,Female,Location_83,2023-11-04,484,Electronics,5,Monthly
+84,User_84,32,Male,Location_84,2023-12-27,186,Home & Garden,3,Weekly
+85,User_85,53,Female,Location_85,2023-10-20,857,Books,2,Monthly
+86,User_86,30,Female,Location_86,2023-01-22,411,Clothing,4,Daily
+87,User_87,60,Male,Location_87,2023-08-14,285,Home & Garden,2,Daily
+88,User_88,38,Female,Location_88,2023-05-14,264,Electronics,4,Weekly
+89,User_89,29,Female,Location_89,2023-05-21,157,Food,4,Daily
+90,User_90,22,Female,Location_90,2023-02-20,843,Home & Garden,5,Monthly
+91,User_91,24,Female,Location_91,2023-06-09,421,Food,5,Weekly
+92,User_92,22,Female,Location_92,2023-12-17,750,Home & Garden,3,Weekly
+93,User_93,65,Female,Location_93,2023-12-28,941,Books,5,Daily
+94,User_94,70,Male,Location_94,2023-07-05,275,Food,2,Daily
+95,User_95,21,Male,Location_95,2023-10-27,755,Clothing,2,Monthly
+96,User_96,30,Female,Location_96,2023-02-08,23,Electronics,4,Daily
+97,User_97,54,Female,Location_97,2023-02-07,447,Clothing,3,Weekly
+98,User_98,70,Male,Location_98,2023-04-15,336,Home & Garden,3,Monthly
+99,User_99,58,Male,Location_99,2023-11-23,994,Home & Garden,3,Weekly
+100,User_100,32,Male,Location_0,2023-01-31,788,Clothing,4,Weekly
+101,User_101,33,Male,Location_1,2023-01-31,131,Home & Garden,5,Weekly
+102,User_102,38,Female,Location_2,2023-03-10,309,Books,1,Daily
+103,User_103,53,Female,Location_3,2023-08-04,623,Electronics,2,Monthly
+104,User_104,41,Male,Location_4,2023-05-29,399,Books,4,Monthly
+105,User_105,33,Male,Location_5,2023-02-17,178,Food,2,Daily
+106,User_106,31,Male,Location_6,2023-03-22,254,Electronics,5,Daily
+107,User_107,39,Male,Location_7,2023-04-11,793,Electronics,5,Daily
+108,User_108,66,Female,Location_8,2023-09-24,24,Home & Garden,4,Daily
+109,User_109,67,Male,Location_9,2023-12-06,479,Food,4,Weekly
+110,User_110,23,Male,Location_10,2023-01-07,10,Clothing,1,Weekly
+111,User_111,59,Male,Location_11,2023-04-21,301,Food,3,Daily
+112,User_112,53,Female,Location_12,2023-06-05,619,Clothing,1,Weekly
+113,User_113,18,Female,Location_13,2023-10-21,408,Food,4,Weekly
+114,User_114,49,Female,Location_14,2023-04-21,784,Food,1,Daily
+115,User_115,23,Male,Location_15,2023-08-25,610,Clothing,2,Weekly
+116,User_116,48,Female,Location_16,2023-01-11,512,Books,5,Daily
+117,User_117,18,Female,Location_17,2023-09-09,13,Home & Garden,5,Monthly
+118,User_118,67,Male,Location_18,2023-05-05,334,Home & Garden,1,Monthly
+119,User_119,68,Female,Location_19,2023-07-11,111,Home & Garden,3,Daily
+120,User_120,54,Male,Location_20,2023-02-24,498,Clothing,4,Weekly
+121,User_121,52,Female,Location_21,2023-12-22,873,Home & Garden,5,Daily
+122,User_122,66,Female,Location_22,2023-06-13,933,Electronics,1,Monthly
+123,User_123,47,Male,Location_23,2023-03-27,636,Food,4,Monthly
+124,User_124,21,Male,Location_24,2023-01-15,589,Clothing,5,Daily
+125,User_125,52,Female,Location_25,2023-11-19,812,Clothing,1,Daily
+126,User_126,60,Female,Location_26,2023-08-13,435,Electronics,4,Daily
+127,User_127,31,Male,Location_27,2023-11-07,791,Food,3,Weekly
+128,User_128,66,Female,Location_28,2023-12-27,905,Home & Garden,1,Daily
+129,User_129,57,Male,Location_29,2023-11-20,123,Clothing,1,Daily
+130,User_130,39,Male,Location_30,2023-09-20,411,Clothing,1,Weekly
+131,User_131,27,Male,Location_31,2023-11-13,372,Clothing,5,Weekly
+132,User_132,18,Female,Location_32,2023-01-09,690,Clothing,3,Monthly
+133,User_133,28,Female,Location_33,2023-01-08,503,Clothing,3,Monthly
+134,User_134,68,Female,Location_34,2023-10-18,980,Clothing,1,Daily
+135,User_135,61,Female,Location_35,2023-08-02,816,Electronics,1,Monthly
+136,User_136,41,Female,Location_36,2023-01-29,564,Clothing,3,Monthly
+137,User_137,20,Male,Location_37,2023-12-11,333,Books,4,Weekly
+138,User_138,52,Female,Location_38,2023-08-08,293,Food,1,Weekly
+139,User_139,53,Male,Location_39,2023-10-30,966,Food,3,Weekly
+140,User_140,48,Male,Location_40,2023-01-21,665,Home & Garden,5,Monthly
+141,User_141,21,Female,Location_41,2023-12-03,764,Clothing,3,Weekly
+142,User_142,36,Male,Location_42,2023-03-14,940,Clothing,4,Monthly
+143,User_143,64,Female,Location_43,2023-07-17,494,Electronics,1,Weekly
+144,User_144,53,Male,Location_44,2023-01-04,756,Books,3,Monthly
+145,User_145,38,Male,Location_45,2023-05-23,625,Food,2,Weekly
+146,User_146,35,Male,Location_46,2023-09-20,700,Food,1,Monthly
+147,User_147,68,Female,Location_47,2023-04-09,54,Home & Garden,1,Monthly
+148,User_148,45,Female,Location_48,2023-02-23,350,Clothing,2,Weekly
+149,User_149,32,Female,Location_49,2023-08-12,574,Electronics,1,Weekly
+150,User_150,59,Female,Location_50,2023-03-19,931,Home & Garden,5,Weekly
+151,User_151,19,Male,Location_51,2023-06-22,725,Home & Garden,5,Daily
+152,User_152,54,Female,Location_52,2023-09-02,182,Home & Garden,4,Daily
+153,User_153,28,Female,Location_53,2023-02-14,91,Electronics,4,Weekly
+154,User_154,40,Male,Location_54,2023-11-26,655,Electronics,3,Weekly
+155,User_155,61,Male,Location_55,2023-04-26,605,Clothing,3,Daily
+156,User_156,58,Female,Location_56,2023-12-07,721,Electronics,5,Weekly
+157,User_157,29,Male,Location_57,2023-10-21,265,Home & Garden,1,Weekly
+158,User_158,20,Female,Location_58,2023-11-12,846,Clothing,2,Daily
+159,User_159,69,Male,Location_59,2023-12-20,617,Home & Garden,5,Monthly
+160,User_160,34,Female,Location_60,2023-08-07,359,Home & Garden,4,Daily
+161,User_161,50,Male,Location_61,2023-06-20,116,Food,4,Weekly
+162,User_162,18,Female,Location_62,2023-12-25,764,Electronics,4,Weekly
+163,User_163,56,Male,Location_63,2023-10-01,613,Food,2,Monthly
+164,User_164,37,Female,Location_64,2023-12-18,170,Food,4,Weekly
+165,User_165,64,Female,Location_65,2023-11-16,501,Home & Garden,4,Weekly
+166,User_166,60,Female,Location_66,2023-05-19,947,Electronics,3,Daily
+167,User_167,69,Female,Location_67,2023-11-27,220,Home & Garden,1,Daily
+168,User_168,58,Female,Location_68,2023-06-06,423,Books,1,Weekly
+169,User_169,31,Female,Location_69,2023-08-03,919,Home & Garden,2,Weekly
+170,User_170,48,Male,Location_70,2023-11-01,374,Home & Garden,4,Weekly
+171,User_171,42,Female,Location_71,2023-09-06,659,Electronics,3,Weekly
+172,User_172,20,Male,Location_72,2023-07-04,64,Home & Garden,1,Monthly
+173,User_173,21,Female,Location_73,2023-12-20,914,Home & Garden,2,Daily
+174,User_174,48,Male,Location_74,2023-12-25,35,Food,3,Daily
+175,User_175,52,Female,Location_75,2023-09-13,171,Home & Garden,4,Weekly
+176,User_176,61,Male,Location_76,2023-07-18,539,Electronics,2,Weekly
+177,User_177,31,Female,Location_77,2023-01-16,507,Food,3,Weekly
+178,User_178,66,Male,Location_78,2023-08-07,441,Clothing,1,Daily
+179,User_179,58,Female,Location_79,2023-05-12,538,Clothing,5,Weekly
+180,User_180,26,Male,Location_80,2023-10-28,571,Home & Garden,1,Weekly
+181,User_181,37,Male,Location_81,2023-10-11,72,Food,5,Monthly
+182,User_182,49,Male,Location_82,2023-10-04,849,Books,2,Daily
+183,User_183,26,Female,Location_83,2023-09-22,872,Clothing,3,Monthly
+184,User_184,44,Male,Location_84,2023-07-01,986,Food,3,Weekly
+185,User_185,20,Female,Location_85,2023-10-21,96,Clothing,3,Monthly
+186,User_186,70,Female,Location_86,2023-07-07,517,Food,4,Monthly
+187,User_187,21,Female,Location_87,2023-11-28,175,Home & Garden,1,Daily
+188,User_188,62,Female,Location_88,2023-12-21,275,Food,5,Monthly
+189,User_189,32,Male,Location_89,2023-09-15,952,Food,4,Weekly
+190,User_190,50,Female,Location_90,2023-08-15,662,Electronics,2,Weekly
+191,User_191,22,Male,Location_91,2023-01-06,98,Home & Garden,2,Weekly
+192,User_192,21,Female,Location_92,2023-07-08,391,Books,4,Weekly
+193,User_193,63,Male,Location_93,2023-05-23,383,Clothing,5,Daily
+194,User_194,29,Female,Location_94,2023-03-03,416,Food,2,Weekly
+195,User_195,40,Female,Location_95,2023-10-19,194,Food,1,Daily
+196,User_196,31,Male,Location_96,2023-08-15,600,Home & Garden,2,Daily
+197,User_197,63,Female,Location_97,2023-09-30,567,Electronics,5,Daily
+198,User_198,29,Female,Location_98,2023-11-28,811,Clothing,1,Weekly
+199,User_199,34,Female,Location_99,2023-06-13,712,Books,4,Daily
+200,User_200,42,Female,Location_0,2023-05-05,526,Food,5,Monthly
+201,User_201,47,Female,Location_1,2023-03-12,847,Electronics,1,Monthly
+202,User_202,39,Female,Location_2,2023-12-22,647,Clothing,1,Weekly
+203,User_203,64,Female,Location_3,2023-04-18,86,Clothing,1,Monthly
+204,User_204,43,Female,Location_4,2023-10-18,691,Books,5,Monthly
+205,User_205,34,Male,Location_5,2023-11-11,406,Home & Garden,3,Monthly
+206,User_206,37,Female,Location_6,2023-10-02,778,Clothing,2,Monthly
+207,User_207,51,Male,Location_7,2023-08-23,719,Clothing,3,Daily
+208,User_208,58,Female,Location_8,2023-04-04,160,Books,2,Monthly
+209,User_209,50,Male,Location_9,2023-02-16,755,Food,5,Weekly
+210,User_210,54,Male,Location_10,2023-02-15,363,Home & Garden,2,Weekly
+211,User_211,24,Male,Location_11,2023-04-07,699,Books,5,Monthly
+212,User_212,39,Female,Location_12,2023-03-13,637,Food,1,Monthly
+213,User_213,49,Female,Location_13,2023-04-16,843,Books,4,Monthly
+214,User_214,31,Male,Location_14,2023-12-29,404,Books,3,Monthly
+215,User_215,25,Female,Location_15,2023-10-12,208,Books,3,Monthly
+216,User_216,42,Female,Location_16,2023-08-10,132,Electronics,5,Daily
+217,User_217,33,Male,Location_17,2023-02-08,26,Books,2,Weekly
+218,User_218,59,Female,Location_18,2023-08-02,721,Food,2,Weekly
+219,User_219,36,Male,Location_19,2023-04-09,421,Food,4,Daily
+220,User_220,58,Male,Location_20,2023-08-04,304,Clothing,1,Daily
+221,User_221,33,Female,Location_21,2023-11-02,117,Electronics,2,Daily
+222,User_222,29,Male,Location_22,2023-05-27,94,Food,2,Weekly
+223,User_223,56,Female,Location_23,2023-08-24,435,Electronics,1,Weekly
+224,User_224,65,Female,Location_24,2023-10-21,732,Clothing,4,Monthly
+225,User_225,47,Female,Location_25,2023-05-29,637,Electronics,2,Daily
+226,User_226,19,Female,Location_26,2023-03-13,464,Food,5,Weekly
+227,User_227,49,Male,Location_27,2023-11-10,944,Home & Garden,1,Weekly
+228,User_228,62,Female,Location_28,2023-05-21,684,Electronics,2,Monthly
+229,User_229,42,Female,Location_29,2023-01-22,123,Electronics,4,Monthly
+230,User_230,42,Female,Location_30,2023-02-16,724,Home & Garden,3,Weekly
+231,User_231,21,Male,Location_31,2023-12-28,777,Books,5,Daily
+232,User_232,36,Male,Location_32,2023-05-03,369,Home & Garden,5,Monthly
+233,User_233,65,Female,Location_33,2023-06-12,818,Books,5,Weekly
+234,User_234,21,Female,Location_34,2023-07-20,50,Home & Garden,5,Monthly
+235,User_235,60,Female,Location_35,2023-04-13,933,Electronics,3,Daily
+236,User_236,30,Female,Location_36,2023-08-04,104,Books,3,Weekly
+237,User_237,56,Female,Location_37,2023-08-30,174,Books,3,Daily
+238,User_238,53,Male,Location_38,2023-03-09,108,Home & Garden,3,Monthly
+239,User_239,40,Female,Location_39,2023-06-28,581,Electronics,4,Daily
+240,User_240,23,Male,Location_40,2023-05-23,611,Electronics,2,Daily
+241,User_241,41,Male,Location_41,2023-02-25,933,Electronics,3,Monthly
+242,User_242,61,Female,Location_42,2023-10-11,706,Books,3,Daily
+243,User_243,50,Male,Location_43,2023-03-28,137,Books,4,Weekly
+244,User_244,29,Female,Location_44,2023-10-10,964,Books,1,Monthly
+245,User_245,58,Male,Location_45,2023-03-26,297,Electronics,4,Daily
+246,User_246,38,Male,Location_46,2023-02-22,826,Clothing,1,Daily
+247,User_247,28,Female,Location_47,2023-06-18,136,Clothing,5,Monthly
+248,User_248,61,Male,Location_48,2023-01-21,397,Books,4,Daily
+249,User_249,55,Female,Location_49,2023-03-06,330,Books,5,Weekly
+250,User_250,46,Female,Location_50,2023-10-05,559,Electronics,1,Monthly
+251,User_251,65,Female,Location_51,2023-02-20,513,Electronics,4,Weekly
+252,User_252,58,Female,Location_52,2023-07-31,689,Clothing,1,Weekly
+253,User_253,20,Female,Location_53,2023-09-03,22,Clothing,1,Weekly
+254,User_254,45,Female,Location_54,2023-09-06,862,Home & Garden,5,Monthly
+255,User_255,37,Male,Location_55,2023-09-02,469,Electronics,1,Monthly
+256,User_256,43,Male,Location_56,2023-03-21,342,Food,2,Weekly
+257,User_257,41,Female,Location_57,2023-08-12,642,Home & Garden,3,Monthly
+258,User_258,69,Male,Location_58,2023-02-08,380,Electronics,4,Weekly
+259,User_259,64,Male,Location_59,2023-09-27,997,Food,5,Weekly
+260,User_260,38,Female,Location_60,2023-06-26,953,Food,3,Daily
+261,User_261,47,Male,Location_61,2023-12-31,323,Books,5,Weekly
+262,User_262,21,Female,Location_62,2023-09-05,159,Books,2,Monthly
+263,User_263,53,Female,Location_63,2023-07-14,886,Food,3,Weekly
+264,User_264,57,Male,Location_64,2023-12-17,534,Food,4,Weekly
+265,User_265,27,Female,Location_65,2023-02-11,667,Home & Garden,1,Daily
+266,User_266,27,Female,Location_66,2023-06-13,433,Food,1,Weekly
+267,User_267,59,Female,Location_67,2023-10-08,937,Books,3,Weekly
+268,User_268,41,Female,Location_68,2023-07-18,633,Books,5,Daily
+269,User_269,21,Male,Location_69,2023-09-17,679,Books,4,Daily
+270,User_270,64,Female,Location_70,2023-09-29,449,Clothing,1,Monthly
+271,User_271,44,Male,Location_71,2023-04-20,459,Home & Garden,3,Weekly
+272,User_272,68,Female,Location_72,2023-10-12,303,Home & Garden,3,Weekly
+273,User_273,62,Male,Location_73,2023-06-29,522,Home & Garden,2,Daily
+274,User_274,21,Male,Location_74,2023-12-20,801,Clothing,4,Monthly
+275,User_275,49,Female,Location_75,2023-05-27,919,Home & Garden,4,Weekly
+276,User_276,27,Male,Location_76,2023-03-08,146,Clothing,5,Weekly
+277,User_277,28,Female,Location_77,2023-03-29,478,Clothing,5,Daily
+278,User_278,45,Female,Location_78,2023-03-20,63,Food,3,Daily
+279,User_279,63,Male,Location_79,2023-11-28,220,Clothing,2,Daily
+280,User_280,25,Male,Location_80,2023-03-09,346,Electronics,3,Weekly
+281,User_281,57,Male,Location_81,2023-02-11,791,Electronics,5,Weekly
+282,User_282,39,Male,Location_82,2023-02-17,402,Home & Garden,1,Monthly
+283,User_283,51,Female,Location_83,2023-03-15,400,Electronics,2,Daily
+284,User_284,62,Male,Location_84,2023-01-27,421,Food,4,Daily
+285,User_285,52,Female,Location_85,2023-07-13,175,Electronics,1,Daily
+286,User_286,52,Male,Location_86,2023-06-06,429,Clothing,1,Weekly
+287,User_287,42,Male,Location_87,2023-05-06,562,Electronics,4,Monthly
+288,User_288,51,Female,Location_88,2023-06-17,676,Books,3,Monthly
+289,User_289,23,Male,Location_89,2023-04-14,360,Food,2,Daily
+290,User_290,58,Female,Location_90,2023-12-04,982,Home & Garden,1,Weekly
+291,User_291,54,Male,Location_91,2023-10-16,451,Books,3,Daily
+292,User_292,18,Male,Location_92,2023-07-01,311,Food,4,Daily
+293,User_293,29,Female,Location_93,2023-02-13,858,Food,3,Monthly
+294,User_294,52,Female,Location_94,2023-12-23,324,Food,1,Monthly
+295,User_295,23,Female,Location_95,2023-09-13,161,Electronics,2,Weekly
+296,User_296,34,Female,Location_96,2023-07-21,776,Electronics,2,Daily
+297,User_297,26,Female,Location_97,2023-03-23,252,Books,4,Daily
+298,User_298,19,Female,Location_98,2023-10-29,756,Books,3,Weekly
+299,User_299,35,Female,Location_99,2023-08-13,978,Clothing,5,Daily
+300,User_300,66,Male,Location_0,2023-05-11,474,Clothing,2,Weekly
+301,User_301,53,Female,Location_1,2023-12-30,255,Clothing,5,Weekly
+302,User_302,45,Male,Location_2,2023-10-06,903,Food,3,Weekly
+303,User_303,58,Male,Location_3,2023-05-24,540,Home & Garden,3,Monthly
+304,User_304,70,Female,Location_4,2023-12-29,980,Clothing,5,Daily
+305,User_305,54,Male,Location_5,2023-09-12,921,Books,4,Monthly
+306,User_306,66,Male,Location_6,2023-01-30,496,Home & Garden,5,Monthly
+307,User_307,43,Female,Location_7,2023-05-03,903,Clothing,1,Weekly
+308,User_308,21,Male,Location_8,2023-10-11,866,Electronics,5,Weekly
+309,User_309,57,Female,Location_9,2023-03-01,761,Clothing,5,Daily
+310,User_310,53,Male,Location_10,2023-12-04,842,Clothing,4,Weekly
+311,User_311,68,Male,Location_11,2023-03-16,397,Food,1,Daily
+312,User_312,48,Female,Location_12,2023-02-26,996,Food,3,Daily
+313,User_313,47,Male,Location_13,2023-03-25,926,Clothing,1,Daily
+314,User_314,67,Male,Location_14,2023-01-07,185,Food,5,Daily
+315,User_315,51,Female,Location_15,2023-11-20,456,Electronics,3,Daily
+316,User_316,36,Female,Location_16,2023-03-05,363,Home & Garden,4,Weekly
+317,User_317,35,Male,Location_17,2023-06-18,34,Home & Garden,3,Monthly
+318,User_318,47,Male,Location_18,2023-12-04,732,Food,4,Daily
+319,User_319,38,Female,Location_19,2023-08-27,818,Clothing,5,Monthly
+320,User_320,20,Male,Location_20,2023-07-14,147,Electronics,1,Daily
+321,User_321,23,Female,Location_21,2023-10-10,338,Electronics,1,Monthly
+322,User_322,55,Female,Location_22,2023-10-31,209,Books,1,Monthly
+323,User_323,30,Male,Location_23,2023-02-05,486,Food,1,Daily
+324,User_324,62,Female,Location_24,2023-06-13,307,Books,1,Weekly
+325,User_325,20,Female,Location_25,2023-08-17,797,Food,2,Weekly
+326,User_326,65,Male,Location_26,2023-05-27,736,Books,5,Weekly
+327,User_327,45,Female,Location_27,2023-05-19,333,Clothing,1,Weekly
+328,User_328,39,Male,Location_28,2023-02-04,984,Food,1,Monthly
+329,User_329,57,Male,Location_29,2023-01-14,137,Home & Garden,4,Daily
+330,User_330,57,Male,Location_30,2023-07-19,641,Food,5,Daily
+331,User_331,29,Female,Location_31,2023-12-01,844,Home & Garden,4,Weekly
+332,User_332,40,Male,Location_32,2023-05-03,737,Books,1,Daily
+333,User_333,48,Male,Location_33,2023-01-19,245,Books,5,Daily
+334,User_334,35,Male,Location_34,2023-02-22,34,Clothing,5,Daily
+335,User_335,24,Male,Location_35,2023-12-11,606,Home & Garden,5,Monthly
+336,User_336,25,Female,Location_36,2023-05-21,685,Clothing,3,Daily
+337,User_337,36,Female,Location_37,2023-02-18,900,Electronics,2,Daily
+338,User_338,46,Male,Location_38,2023-03-10,440,Home & Garden,2,Weekly
+339,User_339,61,Female,Location_39,2023-01-03,554,Food,1,Monthly
+340,User_340,37,Female,Location_40,2023-01-11,812,Home & Garden,2,Monthly
+341,User_341,67,Female,Location_41,2023-07-16,564,Books,5,Daily
+342,User_342,59,Male,Location_42,2023-04-26,870,Clothing,3,Daily
+343,User_343,47,Female,Location_43,2023-08-03,47,Electronics,2,Monthly
+344,User_344,64,Female,Location_44,2023-04-23,238,Clothing,2,Daily
+345,User_345,39,Female,Location_45,2023-05-14,860,Electronics,3,Daily
+346,User_346,27,Female,Location_46,2023-02-27,65,Books,4,Weekly
+347,User_347,43,Female,Location_47,2023-03-28,884,Clothing,1,Monthly
+348,User_348,68,Male,Location_48,2023-09-01,557,Food,5,Weekly
+349,User_349,50,Female,Location_49,2023-02-07,365,Food,3,Weekly
+350,User_350,45,Female,Location_50,2023-11-21,75,Clothing,4,Weekly
+351,User_351,27,Male,Location_51,2023-05-09,359,Clothing,1,Monthly
+352,User_352,46,Male,Location_52,2023-02-19,670,Electronics,4,Daily
+353,User_353,61,Male,Location_53,2023-03-04,239,Clothing,1,Weekly
+354,User_354,35,Male,Location_54,2023-08-11,365,Electronics,2,Daily
+355,User_355,59,Female,Location_55,2023-11-26,824,Clothing,3,Weekly
+356,User_356,18,Female,Location_56,2023-09-29,364,Clothing,1,Daily
+357,User_357,40,Female,Location_57,2023-03-09,101,Home & Garden,3,Weekly
+358,User_358,34,Female,Location_58,2023-04-22,72,Electronics,3,Daily
+359,User_359,60,Female,Location_59,2024-01-01,72,Books,4,Daily
+360,User_360,54,Male,Location_60,2023-05-25,507,Food,5,Weekly
+361,User_361,48,Female,Location_61,2023-10-26,261,Electronics,4,Daily
+362,User_362,42,Male,Location_62,2023-03-20,600,Clothing,4,Weekly
+363,User_363,70,Male,Location_63,2023-03-22,884,Food,5,Weekly
+364,User_364,21,Male,Location_64,2023-12-16,168,Clothing,5,Monthly
+365,User_365,69,Female,Location_65,2023-03-25,357,Books,4,Weekly
+366,User_366,26,Female,Location_66,2023-04-14,61,Electronics,3,Daily
+367,User_367,45,Male,Location_67,2023-05-13,526,Electronics,2,Daily
+368,User_368,47,Male,Location_68,2023-04-09,718,Clothing,5,Monthly
+369,User_369,64,Male,Location_69,2023-01-29,912,Clothing,2,Monthly
+370,User_370,41,Male,Location_70,2023-02-24,755,Electronics,3,Weekly
+371,User_371,50,Male,Location_71,2023-03-08,819,Clothing,5,Daily
+372,User_372,37,Male,Location_72,2023-02-12,269,Electronics,1,Monthly
+373,User_373,26,Female,Location_73,2023-12-12,689,Home & Garden,1,Daily
+374,User_374,25,Male,Location_74,2023-09-04,502,Books,4,Monthly
+375,User_375,41,Male,Location_75,2023-04-06,110,Electronics,2,Daily
+376,User_376,31,Male,Location_76,2023-04-06,421,Books,1,Daily
+377,User_377,35,Male,Location_77,2023-10-13,663,Books,4,Monthly
+378,User_378,70,Male,Location_78,2023-05-16,310,Home & Garden,4,Daily
+379,User_379,18,Female,Location_79,2023-11-19,266,Electronics,4,Weekly
+380,User_380,29,Male,Location_80,2023-07-30,852,Clothing,3,Weekly
+381,User_381,46,Female,Location_81,2023-01-08,743,Clothing,2,Daily
+382,User_382,54,Male,Location_82,2023-05-31,856,Electronics,5,Weekly
+383,User_383,43,Male,Location_83,2023-12-09,138,Electronics,4,Daily
+384,User_384,50,Female,Location_84,2023-03-17,266,Books,5,Weekly
+385,User_385,60,Male,Location_85,2023-03-19,106,Books,1,Monthly
+386,User_386,32,Female,Location_86,2023-02-14,894,Food,3,Daily
+387,User_387,40,Female,Location_87,2023-03-29,789,Books,5,Daily
+388,User_388,46,Female,Location_88,2023-03-30,39,Electronics,4,Weekly
+389,User_389,38,Female,Location_89,2023-10-25,399,Food,3,Monthly
+390,User_390,36,Female,Location_90,2023-03-06,79,Books,4,Daily
+391,User_391,22,Female,Location_91,2023-03-27,707,Clothing,3,Monthly
+392,User_392,40,Male,Location_92,2023-01-24,296,Books,5,Daily
+393,User_393,53,Female,Location_93,2023-04-03,796,Books,5,Weekly
+394,User_394,37,Male,Location_94,2023-08-18,628,Books,1,Weekly
+395,User_395,25,Male,Location_95,2023-04-15,26,Books,2,Monthly
+396,User_396,26,Female,Location_96,2023-05-21,897,Home & Garden,4,Weekly
+397,User_397,31,Female,Location_97,2023-01-24,347,Electronics,4,Monthly
+398,User_398,23,Female,Location_98,2023-04-26,213,Food,1,Weekly
+399,User_399,18,Male,Location_99,2023-10-11,19,Electronics,3,Monthly
+400,User_400,26,Female,Location_0,2023-04-10,915,Books,3,Weekly
+401,User_401,33,Female,Location_1,2023-10-31,740,Clothing,5,Monthly
+402,User_402,33,Male,Location_2,2023-12-03,86,Food,5,Weekly
+403,User_403,29,Female,Location_3,2023-08-15,714,Electronics,4,Monthly
+404,User_404,22,Male,Location_4,2023-07-27,241,Clothing,2,Daily
+405,User_405,57,Female,Location_5,2023-02-08,934,Books,4,Monthly
+406,User_406,46,Male,Location_6,2023-11-04,768,Clothing,3,Weekly
+407,User_407,63,Female,Location_7,2023-11-20,855,Electronics,2,Weekly
+408,User_408,44,Male,Location_8,2023-02-08,865,Food,2,Daily
+409,User_409,28,Female,Location_9,2023-08-01,964,Electronics,1,Weekly
+410,User_410,70,Female,Location_10,2023-02-25,643,Clothing,5,Daily
+411,User_411,64,Male,Location_11,2023-09-05,442,Clothing,2,Monthly
+412,User_412,67,Female,Location_12,2023-01-27,421,Electronics,4,Weekly
+413,User_413,45,Female,Location_13,2023-12-07,885,Electronics,3,Daily
+414,User_414,69,Male,Location_14,2023-07-12,163,Electronics,5,Daily
+415,User_415,53,Male,Location_15,2023-08-23,990,Clothing,4,Weekly
+416,User_416,59,Female,Location_16,2023-01-27,121,Home & Garden,3,Daily
+417,User_417,36,Male,Location_17,2023-04-27,598,Electronics,4,Daily
+418,User_418,52,Female,Location_18,2023-11-25,546,Books,4,Monthly
+419,User_419,69,Female,Location_19,2023-07-24,783,Clothing,5,Monthly
+420,User_420,48,Male,Location_20,2023-01-02,44,Home & Garden,3,Monthly
+421,User_421,61,Male,Location_21,2023-05-29,86,Food,4,Daily
+422,User_422,36,Female,Location_22,2023-12-25,197,Home & Garden,2,Weekly
+423,User_423,63,Male,Location_23,2023-07-20,565,Food,5,Monthly
+424,User_424,41,Female,Location_24,2023-10-09,985,Home & Garden,1,Weekly
+425,User_425,19,Male,Location_25,2023-01-12,837,Clothing,2,Monthly
+426,User_426,24,Female,Location_26,2023-04-04,287,Books,3,Daily
+427,User_427,60,Female,Location_27,2023-07-12,494,Clothing,2,Monthly
+428,User_428,66,Female,Location_28,2023-07-18,507,Home & Garden,4,Weekly
+429,User_429,48,Female,Location_29,2023-11-29,520,Home & Garden,1,Daily
+430,User_430,34,Female,Location_30,2023-01-13,374,Food,5,Weekly
+431,User_431,44,Female,Location_31,2023-02-14,534,Electronics,1,Daily
+432,User_432,53,Female,Location_32,2023-06-14,890,Clothing,2,Weekly
+433,User_433,67,Male,Location_33,2023-10-06,108,Food,1,Monthly
+434,User_434,60,Male,Location_34,2023-02-11,655,Home & Garden,3,Daily
+435,User_435,27,Male,Location_35,2023-03-27,798,Home & Garden,4,Weekly
+436,User_436,62,Female,Location_36,2023-12-26,646,Electronics,4,Daily
+437,User_437,31,Male,Location_37,2023-01-13,681,Clothing,3,Weekly
+438,User_438,24,Male,Location_38,2023-04-21,876,Home & Garden,4,Weekly
+439,User_439,56,Male,Location_39,2023-11-02,289,Books,5,Daily
+440,User_440,57,Male,Location_40,2023-05-30,541,Electronics,4,Monthly
+441,User_441,26,Female,Location_41,2023-11-01,607,Electronics,4,Daily
+442,User_442,31,Female,Location_42,2023-06-28,825,Food,2,Monthly
+443,User_443,25,Male,Location_43,2023-09-02,784,Food,1,Weekly
+444,User_444,34,Female,Location_44,2023-03-22,78,Food,4,Daily
+445,User_445,40,Female,Location_45,2023-05-07,211,Home & Garden,2,Daily
+446,User_446,33,Female,Location_46,2023-12-04,546,Electronics,3,Monthly
+447,User_447,43,Female,Location_47,2023-08-02,953,Clothing,5,Monthly
+448,User_448,26,Female,Location_48,2023-08-05,938,Books,3,Daily
+449,User_449,53,Male,Location_49,2023-04-14,980,Home & Garden,5,Daily
+450,User_450,24,Female,Location_50,2023-10-09,740,Home & Garden,2,Weekly
+451,User_451,35,Male,Location_51,2023-03-30,485,Clothing,3,Daily
+452,User_452,25,Female,Location_52,2023-09-04,282,Home & Garden,2,Daily
+453,User_453,38,Male,Location_53,2023-03-24,748,Clothing,5,Daily
+454,User_454,43,Male,Location_54,2023-02-26,160,Clothing,4,Weekly
+455,User_455,20,Female,Location_55,2023-03-14,135,Electronics,2,Monthly
+456,User_456,34,Male,Location_56,2023-12-25,38,Home & Garden,1,Daily
+457,User_457,68,Female,Location_57,2023-01-30,294,Home & Garden,4,Daily
+458,User_458,63,Male,Location_58,2023-08-15,635,Books,4,Weekly
+459,User_459,41,Male,Location_59,2023-02-25,984,Clothing,1,Daily
+460,User_460,42,Female,Location_60,2023-12-27,879,Books,3,Monthly
+461,User_461,22,Male,Location_61,2023-04-03,611,Books,1,Weekly
+462,User_462,54,Female,Location_62,2023-04-26,143,Books,4,Weekly
+463,User_463,62,Male,Location_63,2023-10-15,588,Food,3,Daily
+464,User_464,67,Female,Location_64,2023-02-01,429,Electronics,3,Daily
+465,User_465,41,Male,Location_65,2023-10-12,725,Clothing,5,Monthly
+466,User_466,48,Male,Location_66,2023-05-13,957,Home & Garden,1,Weekly
+467,User_467,43,Female,Location_67,2023-09-13,599,Food,4,Weekly
+468,User_468,38,Female,Location_68,2023-09-15,706,Food,2,Weekly
+469,User_469,51,Male,Location_69,2023-12-02,489,Food,5,Weekly
+470,User_470,55,Female,Location_70,2023-01-12,488,Home & Garden,2,Weekly
+471,User_471,41,Male,Location_71,2023-04-17,271,Food,3,Monthly
+472,User_472,45,Male,Location_72,2023-08-26,39,Food,4,Monthly
+473,User_473,47,Male,Location_73,2023-01-17,101,Home & Garden,4,Monthly
+474,User_474,51,Female,Location_74,2023-03-07,959,Electronics,1,Weekly
+475,User_475,69,Female,Location_75,2023-07-13,459,Food,4,Monthly
+476,User_476,69,Female,Location_76,2023-05-10,327,Clothing,4,Weekly
+477,User_477,40,Male,Location_77,2023-09-08,498,Electronics,1,Monthly
+478,User_478,25,Male,Location_78,2023-04-22,164,Home & Garden,1,Daily
+479,User_479,59,Male,Location_79,2024-01-01,294,Electronics,4,Daily
+480,User_480,67,Female,Location_80,2023-04-03,433,Electronics,4,Weekly
+481,User_481,27,Male,Location_81,2023-10-02,619,Books,5,Monthly
+482,User_482,18,Female,Location_82,2023-05-18,115,Home & Garden,2,Daily
+483,User_483,37,Female,Location_83,2023-06-28,697,Electronics,5,Weekly
+484,User_484,54,Female,Location_84,2023-12-11,119,Home & Garden,5,Daily
+485,User_485,35,Female,Location_85,2023-10-30,938,Food,3,Daily
+486,User_486,38,Female,Location_86,2023-05-24,387,Home & Garden,4,Weekly
+487,User_487,66,Male,Location_87,2023-09-22,270,Electronics,5,Daily
+488,User_488,21,Male,Location_88,2023-08-09,448,Home & Garden,4,Daily
+489,User_489,60,Male,Location_89,2023-11-24,394,Books,5,Weekly
+490,User_490,19,Male,Location_90,2023-06-08,277,Books,3,Weekly
+491,User_491,38,Female,Location_91,2023-08-11,189,Books,4,Weekly
+492,User_492,54,Female,Location_92,2023-06-01,621,Home & Garden,2,Daily
+493,User_493,22,Female,Location_93,2023-05-09,974,Electronics,3,Monthly
+494,User_494,34,Male,Location_94,2023-12-15,804,Food,1,Weekly
+495,User_495,66,Male,Location_95,2023-05-10,537,Clothing,2,Monthly
+496,User_496,65,Female,Location_96,2023-09-09,507,Food,5,Monthly
+497,User_497,28,Male,Location_97,2023-07-10,742,Books,4,Daily
+498,User_498,63,Male,Location_98,2023-06-21,884,Electronics,4,Weekly
+499,User_499,58,Male,Location_99,2023-04-09,922,Home & Garden,2,Daily
+500,User_500,48,Female,Location_0,2023-03-11,894,Home & Garden,1,Weekly
+501,User_501,45,Male,Location_1,2023-11-15,80,Electronics,4,Weekly
+502,User_502,61,Female,Location_2,2023-04-16,770,Electronics,1,Monthly
+503,User_503,49,Male,Location_3,2023-04-22,105,Books,1,Daily
+504,User_504,38,Female,Location_4,2023-08-20,12,Books,3,Monthly
+505,User_505,24,Male,Location_5,2023-02-07,518,Electronics,2,Daily
+506,User_506,27,Male,Location_6,2023-06-15,283,Books,2,Monthly
+507,User_507,45,Female,Location_7,2023-05-17,252,Clothing,2,Weekly
+508,User_508,65,Female,Location_8,2023-12-14,843,Home & Garden,5,Weekly
+509,User_509,53,Female,Location_9,2023-12-30,170,Books,2,Weekly
+510,User_510,37,Male,Location_10,2023-06-18,235,Books,4,Daily
+511,User_511,30,Female,Location_11,2023-05-25,432,Books,4,Weekly
+512,User_512,36,Male,Location_12,2023-05-17,590,Electronics,2,Daily
+513,User_513,67,Female,Location_13,2023-09-23,872,Clothing,4,Monthly
+514,User_514,28,Male,Location_14,2023-01-04,270,Books,3,Monthly
+515,User_515,52,Male,Location_15,2023-07-28,345,Clothing,5,Monthly
+516,User_516,51,Male,Location_16,2023-07-30,137,Clothing,5,Weekly
+517,User_517,61,Female,Location_17,2023-08-09,287,Electronics,1,Daily
+518,User_518,21,Male,Location_18,2023-03-02,899,Books,1,Weekly
+519,User_519,30,Female,Location_19,2023-02-07,381,Clothing,5,Weekly
+520,User_520,54,Male,Location_20,2023-01-22,112,Books,2,Weekly
+521,User_521,19,Male,Location_21,2023-12-29,788,Books,2,Daily
+522,User_522,67,Male,Location_22,2023-09-11,282,Food,3,Daily
+523,User_523,18,Male,Location_23,2023-12-21,12,Home & Garden,5,Weekly
+524,User_524,57,Female,Location_24,2023-02-22,824,Books,4,Weekly
+525,User_525,42,Male,Location_25,2023-08-11,711,Electronics,4,Daily
+526,User_526,54,Male,Location_26,2023-08-23,184,Home & Garden,1,Weekly
+527,User_527,53,Female,Location_27,2023-07-28,120,Electronics,5,Daily
+528,User_528,23,Male,Location_28,2023-10-26,298,Electronics,1,Monthly
+529,User_529,24,Female,Location_29,2023-11-06,241,Electronics,3,Monthly
+530,User_530,21,Female,Location_30,2023-06-12,929,Food,1,Weekly
+531,User_531,52,Male,Location_31,2023-10-14,711,Home & Garden,3,Daily
+532,User_532,58,Male,Location_32,2023-03-06,395,Electronics,5,Daily
+533,User_533,51,Female,Location_33,2023-10-03,302,Food,3,Weekly
+534,User_534,46,Female,Location_34,2023-10-14,867,Home & Garden,1,Weekly
+535,User_535,22,Female,Location_35,2023-05-21,274,Electronics,5,Daily
+536,User_536,44,Female,Location_36,2023-12-21,569,Electronics,1,Monthly
+537,User_537,50,Female,Location_37,2023-08-21,869,Books,4,Weekly
+538,User_538,63,Female,Location_38,2023-06-29,10,Home & Garden,2,Daily
+539,User_539,69,Female,Location_39,2023-10-25,173,Clothing,3,Monthly
+540,User_540,27,Female,Location_40,2023-02-20,36,Electronics,3,Weekly
+541,User_541,23,Male,Location_41,2023-11-30,200,Electronics,2,Monthly
+542,User_542,51,Female,Location_42,2023-03-14,889,Electronics,3,Monthly
+543,User_543,25,Male,Location_43,2023-07-14,958,Books,3,Weekly
+544,User_544,48,Male,Location_44,2023-08-29,672,Books,4,Daily
+545,User_545,26,Female,Location_45,2023-02-19,681,Books,5,Daily
+546,User_546,38,Female,Location_46,2023-11-17,651,Home & Garden,3,Daily
+547,User_547,25,Male,Location_47,2023-03-22,871,Food,4,Monthly
+548,User_548,21,Male,Location_48,2023-04-26,269,Home & Garden,3,Monthly
+549,User_549,39,Female,Location_49,2023-07-30,269,Food,5,Monthly
+550,User_550,45,Female,Location_50,2023-05-15,364,Clothing,4,Weekly
+551,User_551,62,Female,Location_51,2023-03-24,126,Home & Garden,3,Weekly
+552,User_552,21,Female,Location_52,2023-12-03,174,Electronics,4,Weekly
+553,User_553,56,Male,Location_53,2023-08-28,436,Clothing,2,Monthly
+554,User_554,38,Male,Location_54,2023-10-21,376,Electronics,3,Weekly
+555,User_555,25,Male,Location_55,2023-10-18,30,Food,1,Weekly
+556,User_556,37,Male,Location_56,2023-09-26,243,Books,5,Monthly
+557,User_557,49,Male,Location_57,2023-06-09,143,Food,3,Monthly
+558,User_558,18,Male,Location_58,2023-11-24,738,Home & Garden,3,Monthly
+559,User_559,23,Male,Location_59,2023-04-09,93,Clothing,1,Daily
+560,User_560,45,Female,Location_60,2023-04-30,704,Clothing,4,Weekly
+561,User_561,61,Female,Location_61,2023-01-21,751,Clothing,5,Weekly
+562,User_562,48,Female,Location_62,2023-11-30,269,Food,1,Monthly
+563,User_563,27,Female,Location_63,2023-07-07,861,Home & Garden,5,Monthly
+564,User_564,37,Male,Location_64,2023-11-22,161,Books,3,Daily
+565,User_565,25,Male,Location_65,2023-06-17,58,Clothing,5,Weekly
+566,User_566,39,Female,Location_66,2023-03-21,872,Books,4,Monthly
+567,User_567,55,Male,Location_67,2023-08-04,680,Clothing,2,Daily
+568,User_568,46,Male,Location_68,2023-08-31,227,Clothing,5,Weekly
+569,User_569,26,Male,Location_69,2023-10-18,913,Food,2,Monthly
+570,User_570,61,Male,Location_70,2023-03-16,948,Electronics,4,Weekly
+571,User_571,64,Female,Location_71,2023-10-30,662,Clothing,1,Daily
+572,User_572,18,Female,Location_72,2023-04-16,526,Electronics,5,Weekly
+573,User_573,58,Female,Location_73,2023-07-08,250,Food,5,Daily
+574,User_574,69,Female,Location_74,2023-07-28,933,Clothing,5,Monthly
+575,User_575,56,Male,Location_75,2023-06-24,214,Home & Garden,5,Daily
+576,User_576,43,Female,Location_76,2023-02-18,633,Clothing,2,Monthly
+577,User_577,28,Male,Location_77,2023-10-02,724,Clothing,4,Daily
+578,User_578,69,Female,Location_78,2023-09-12,774,Home & Garden,2,Weekly
+579,User_579,52,Male,Location_79,2023-06-04,437,Home & Garden,3,Monthly
+580,User_580,41,Female,Location_80,2023-01-06,703,Clothing,3,Daily
+581,User_581,50,Male,Location_81,2023-10-03,248,Books,1,Weekly
+582,User_582,37,Male,Location_82,2023-12-06,660,Food,1,Weekly
+583,User_583,44,Male,Location_83,2023-10-20,765,Books,5,Daily
+584,User_584,32,Male,Location_84,2023-05-23,53,Clothing,3,Weekly
+585,User_585,50,Male,Location_85,2023-01-16,784,Electronics,2,Monthly
+586,User_586,69,Male,Location_86,2023-04-03,721,Home & Garden,4,Weekly
+587,User_587,24,Male,Location_87,2023-06-16,522,Home & Garden,3,Weekly
+588,User_588,51,Male,Location_88,2023-02-23,573,Electronics,3,Daily
+589,User_589,62,Male,Location_89,2023-03-16,684,Food,2,Monthly
+590,User_590,68,Female,Location_90,2023-06-14,874,Food,3,Daily
+591,User_591,63,Female,Location_91,2023-05-26,33,Clothing,2,Monthly
+592,User_592,59,Female,Location_92,2023-03-04,458,Clothing,2,Monthly
+593,User_593,22,Female,Location_93,2023-11-14,721,Home & Garden,2,Weekly
+594,User_594,47,Female,Location_94,2023-09-06,936,Electronics,2,Weekly
+595,User_595,45,Male,Location_95,2023-10-26,796,Electronics,3,Weekly
+596,User_596,35,Female,Location_96,2023-08-31,810,Books,3,Weekly
+597,User_597,53,Female,Location_97,2023-06-16,12,Food,4,Daily
+598,User_598,20,Male,Location_98,2023-02-17,688,Food,1,Daily
+599,User_599,38,Female,Location_99,2023-03-14,278,Clothing,4,Monthly
+600,User_600,63,Female,Location_0,2023-12-27,586,Clothing,2,Weekly
+601,User_601,33,Male,Location_1,2023-09-26,904,Food,5,Monthly
+602,User_602,54,Female,Location_2,2023-11-07,774,Books,4,Daily
+603,User_603,59,Female,Location_3,2023-11-24,82,Clothing,5,Weekly
+604,User_604,22,Male,Location_4,2023-11-13,781,Clothing,5,Weekly
+605,User_605,67,Male,Location_5,2023-04-12,407,Books,3,Weekly
+606,User_606,68,Male,Location_6,2023-09-01,904,Home & Garden,2,Daily
+607,User_607,31,Male,Location_7,2023-06-22,996,Food,1,Monthly
+608,User_608,48,Female,Location_8,2023-02-13,141,Electronics,1,Weekly
+609,User_609,63,Female,Location_9,2023-10-31,240,Electronics,1,Weekly
+610,User_610,41,Female,Location_10,2023-12-16,464,Electronics,1,Monthly
+611,User_611,52,Male,Location_11,2023-06-26,656,Electronics,1,Monthly
+612,User_612,53,Female,Location_12,2023-06-21,414,Electronics,5,Monthly
+613,User_613,27,Male,Location_13,2023-04-09,836,Home & Garden,5,Weekly
+614,User_614,44,Female,Location_14,2023-12-12,12,Food,5,Weekly
+615,User_615,44,Male,Location_15,2023-09-23,991,Clothing,2,Weekly
+616,User_616,40,Female,Location_16,2023-04-06,185,Electronics,4,Monthly
+617,User_617,30,Female,Location_17,2023-09-03,521,Books,3,Weekly
+618,User_618,33,Male,Location_18,2023-11-10,702,Electronics,5,Daily
+619,User_619,52,Male,Location_19,2023-07-28,580,Home & Garden,2,Weekly
+620,User_620,44,Male,Location_20,2023-04-06,120,Food,2,Monthly
+621,User_621,69,Female,Location_21,2023-09-09,604,Books,3,Daily
+622,User_622,56,Female,Location_22,2023-05-08,264,Electronics,1,Monthly
+623,User_623,64,Male,Location_23,2023-02-28,602,Home & Garden,2,Weekly
+624,User_624,34,Male,Location_24,2023-11-30,323,Electronics,4,Daily
+625,User_625,65,Male,Location_25,2023-04-27,693,Electronics,4,Weekly
+626,User_626,58,Male,Location_26,2023-01-19,299,Books,4,Monthly
+627,User_627,18,Female,Location_27,2023-04-14,500,Home & Garden,2,Weekly
+628,User_628,28,Male,Location_28,2023-06-14,79,Food,2,Weekly
+629,User_629,29,Male,Location_29,2023-09-03,231,Home & Garden,2,Monthly
+630,User_630,31,Female,Location_30,2023-10-28,89,Food,2,Monthly
+631,User_631,25,Female,Location_31,2023-10-18,99,Food,4,Weekly
+632,User_632,48,Male,Location_32,2023-01-23,503,Food,3,Monthly
+633,User_633,24,Female,Location_33,2023-06-17,290,Food,3,Weekly
+634,User_634,63,Male,Location_34,2023-03-11,366,Home & Garden,2,Weekly
+635,User_635,48,Female,Location_35,2023-06-27,710,Books,4,Daily
+636,User_636,33,Female,Location_36,2023-11-26,899,Food,3,Weekly
+637,User_637,59,Male,Location_37,2023-10-31,842,Clothing,4,Weekly
+638,User_638,56,Female,Location_38,2023-02-17,455,Food,2,Monthly
+639,User_639,61,Male,Location_39,2023-10-17,87,Clothing,2,Daily
+640,User_640,36,Male,Location_40,2023-12-14,534,Electronics,5,Daily
+641,User_641,25,Female,Location_41,2023-12-31,720,Food,2,Daily
+642,User_642,46,Female,Location_42,2023-06-03,123,Clothing,4,Weekly
+643,User_643,19,Male,Location_43,2023-06-10,571,Food,2,Daily
+644,User_644,59,Female,Location_44,2023-10-03,141,Home & Garden,1,Daily
+645,User_645,20,Female,Location_45,2023-09-11,938,Books,5,Monthly
+646,User_646,68,Female,Location_46,2023-09-16,125,Electronics,2,Monthly
+647,User_647,46,Male,Location_47,2023-08-05,699,Books,2,Weekly
+648,User_648,32,Female,Location_48,2023-10-15,749,Books,5,Weekly
+649,User_649,55,Female,Location_49,2023-04-07,407,Home & Garden,1,Weekly
+650,User_650,45,Male,Location_50,2023-10-26,85,Clothing,5,Monthly
+651,User_651,54,Female,Location_51,2023-01-05,27,Electronics,4,Daily
+652,User_652,49,Male,Location_52,2023-04-15,78,Books,4,Daily
+653,User_653,47,Male,Location_53,2023-12-06,481,Food,1,Daily
+654,User_654,68,Male,Location_54,2023-06-24,313,Clothing,2,Monthly
+655,User_655,64,Male,Location_55,2023-05-09,340,Electronics,5,Monthly
+656,User_656,47,Female,Location_56,2023-12-19,432,Books,3,Monthly
+657,User_657,68,Male,Location_57,2023-03-06,638,Books,1,Monthly
+658,User_658,51,Male,Location_58,2023-11-06,255,Clothing,5,Daily
+659,User_659,30,Male,Location_59,2023-11-04,880,Food,5,Daily
+660,User_660,50,Female,Location_60,2023-12-15,442,Books,1,Monthly
+661,User_661,59,Male,Location_61,2023-06-01,558,Home & Garden,3,Monthly
+662,User_662,34,Male,Location_62,2023-01-15,487,Home & Garden,4,Daily
+663,User_663,20,Male,Location_63,2023-05-26,803,Clothing,4,Weekly
+664,User_664,26,Male,Location_64,2023-06-10,557,Electronics,2,Weekly
+665,User_665,69,Male,Location_65,2023-03-25,465,Clothing,2,Monthly
+666,User_666,28,Male,Location_66,2023-04-03,970,Clothing,4,Monthly
+667,User_667,66,Male,Location_67,2023-06-19,842,Electronics,3,Weekly
+668,User_668,44,Male,Location_68,2023-11-19,18,Electronics,1,Monthly
+669,User_669,45,Male,Location_69,2023-05-24,973,Electronics,5,Weekly
+670,User_670,19,Male,Location_70,2023-08-29,784,Food,2,Daily
+671,User_671,18,Male,Location_71,2023-01-18,111,Books,4,Daily
+672,User_672,23,Male,Location_72,2023-02-07,401,Clothing,5,Monthly
+673,User_673,42,Female,Location_73,2023-06-29,957,Home & Garden,1,Weekly
+674,User_674,52,Female,Location_74,2023-03-24,471,Electronics,1,Monthly
+675,User_675,33,Male,Location_75,2023-12-26,92,Electronics,2,Monthly
+676,User_676,21,Female,Location_76,2023-07-04,386,Electronics,2,Daily
+677,User_677,64,Female,Location_77,2023-12-06,539,Books,3,Weekly
+678,User_678,55,Female,Location_78,2023-08-31,781,Home & Garden,1,Weekly
+679,User_679,61,Male,Location_79,2023-06-12,136,Clothing,4,Monthly
+680,User_680,37,Female,Location_80,2023-03-14,274,Books,1,Daily
+681,User_681,42,Female,Location_81,2023-09-30,57,Food,1,Weekly
+682,User_682,24,Male,Location_82,2023-12-12,565,Home & Garden,3,Weekly
+683,User_683,38,Female,Location_83,2023-05-26,711,Home & Garden,1,Monthly
+684,User_684,24,Female,Location_84,2023-08-03,781,Food,4,Daily
+685,User_685,46,Female,Location_85,2023-06-30,310,Clothing,3,Weekly
+686,User_686,69,Female,Location_86,2023-08-17,85,Home & Garden,1,Daily
+687,User_687,24,Male,Location_87,2023-08-26,315,Electronics,2,Monthly
+688,User_688,20,Female,Location_88,2023-09-21,60,Clothing,5,Monthly
+689,User_689,46,Male,Location_89,2023-11-12,148,Books,1,Weekly
+690,User_690,46,Female,Location_90,2023-11-24,181,Food,4,Daily
+691,User_691,56,Female,Location_91,2023-04-24,729,Electronics,4,Weekly
+692,User_692,55,Female,Location_92,2023-11-25,997,Electronics,2,Weekly
+693,User_693,23,Female,Location_93,2023-08-21,112,Electronics,1,Daily
+694,User_694,63,Female,Location_94,2023-11-03,584,Books,1,Monthly
+695,User_695,27,Male,Location_95,2023-03-20,493,Electronics,1,Daily
+696,User_696,54,Male,Location_96,2023-01-21,348,Home & Garden,4,Daily
+697,User_697,31,Male,Location_97,2023-06-12,775,Electronics,3,Weekly
+698,User_698,39,Female,Location_98,2023-08-09,328,Clothing,3,Monthly
+699,User_699,49,Male,Location_99,2023-12-01,383,Home & Garden,2,Monthly
+700,User_700,35,Female,Location_0,2023-07-26,429,Electronics,4,Weekly
+701,User_701,53,Male,Location_1,2023-10-09,351,Books,5,Weekly
+702,User_702,63,Male,Location_2,2023-10-03,934,Electronics,2,Monthly
+703,User_703,69,Male,Location_3,2023-11-23,965,Books,3,Weekly
+704,User_704,26,Female,Location_4,2023-05-01,235,Home & Garden,5,Daily
+705,User_705,43,Male,Location_5,2023-07-07,99,Home & Garden,2,Daily
+706,User_706,39,Female,Location_6,2023-10-19,468,Home & Garden,2,Weekly
+707,User_707,63,Male,Location_7,2023-03-13,523,Home & Garden,4,Daily
+708,User_708,55,Female,Location_8,2023-10-25,516,Books,1,Weekly
+709,User_709,40,Female,Location_9,2023-11-23,415,Clothing,3,Monthly
+710,User_710,34,Female,Location_10,2023-08-27,931,Books,3,Weekly
+711,User_711,43,Female,Location_11,2023-06-08,660,Books,1,Monthly
+712,User_712,64,Female,Location_12,2023-12-19,642,Electronics,5,Weekly
+713,User_713,55,Female,Location_13,2023-07-22,435,Electronics,5,Weekly
+714,User_714,19,Female,Location_14,2023-01-07,23,Books,5,Daily
+715,User_715,23,Female,Location_15,2023-02-04,701,Food,1,Daily
+716,User_716,24,Female,Location_16,2023-02-25,332,Clothing,4,Daily
+717,User_717,30,Female,Location_17,2023-10-11,220,Home & Garden,4,Daily
+718,User_718,44,Male,Location_18,2023-06-12,222,Home & Garden,2,Weekly
+719,User_719,28,Female,Location_19,2023-07-06,657,Home & Garden,3,Daily
+720,User_720,32,Male,Location_20,2023-07-23,818,Electronics,1,Weekly
+721,User_721,26,Male,Location_21,2023-10-13,322,Electronics,4,Weekly
+722,User_722,25,Female,Location_22,2023-12-04,351,Clothing,3,Monthly
+723,User_723,63,Male,Location_23,2023-01-09,47,Clothing,5,Weekly
+724,User_724,23,Female,Location_24,2023-12-24,440,Books,1,Daily
+725,User_725,65,Female,Location_25,2023-08-09,221,Electronics,3,Monthly
+726,User_726,60,Male,Location_26,2023-05-06,484,Home & Garden,4,Monthly
+727,User_727,21,Female,Location_27,2023-05-10,705,Books,5,Monthly
+728,User_728,28,Male,Location_28,2023-05-26,400,Food,2,Weekly
+729,User_729,68,Male,Location_29,2023-08-01,522,Food,2,Daily
+730,User_730,45,Male,Location_30,2023-01-16,402,Clothing,2,Monthly
+731,User_731,43,Male,Location_31,2023-08-31,735,Electronics,4,Weekly
+732,User_732,21,Female,Location_32,2023-09-22,389,Electronics,1,Weekly
+733,User_733,32,Female,Location_33,2023-06-28,249,Food,3,Monthly
+734,User_734,36,Female,Location_34,2023-11-03,687,Clothing,4,Daily
+735,User_735,23,Male,Location_35,2023-06-29,973,Clothing,3,Weekly
+736,User_736,22,Female,Location_36,2023-04-02,696,Electronics,4,Monthly
+737,User_737,35,Male,Location_37,2023-12-20,754,Electronics,5,Weekly
+738,User_738,23,Male,Location_38,2023-03-24,435,Food,4,Daily
+739,User_739,48,Male,Location_39,2023-12-22,870,Home & Garden,2,Daily
+740,User_740,42,Male,Location_40,2023-04-04,73,Clothing,1,Daily
+741,User_741,21,Male,Location_41,2023-03-24,67,Electronics,3,Daily
+742,User_742,23,Male,Location_42,2023-08-30,622,Clothing,5,Weekly
+743,User_743,58,Female,Location_43,2023-04-14,561,Home & Garden,2,Daily
+744,User_744,54,Female,Location_44,2024-01-01,715,Food,5,Monthly
+745,User_745,67,Female,Location_45,2023-12-25,445,Home & Garden,3,Daily
+746,User_746,42,Male,Location_46,2023-08-01,711,Food,4,Daily
+747,User_747,51,Male,Location_47,2023-10-26,375,Clothing,1,Monthly
+748,User_748,36,Female,Location_48,2023-02-20,719,Books,2,Daily
+749,User_749,51,Female,Location_49,2023-04-28,964,Clothing,1,Daily
+750,User_750,32,Female,Location_50,2023-06-02,869,Books,3,Monthly
+751,User_751,67,Male,Location_51,2023-09-10,361,Clothing,5,Daily
+752,User_752,25,Female,Location_52,2023-04-30,946,Home & Garden,1,Weekly
+753,User_753,61,Female,Location_53,2023-06-15,83,Food,5,Weekly
+754,User_754,64,Male,Location_54,2023-09-12,703,Clothing,1,Daily
+755,User_755,66,Male,Location_55,2023-07-19,898,Electronics,3,Weekly
+756,User_756,70,Female,Location_56,2023-07-21,529,Food,5,Monthly
+757,User_757,51,Female,Location_57,2023-10-25,365,Home & Garden,1,Weekly
+758,User_758,35,Male,Location_58,2023-10-02,953,Clothing,1,Daily
+759,User_759,47,Male,Location_59,2023-04-07,719,Food,3,Daily
+760,User_760,30,Male,Location_60,2023-08-13,691,Electronics,5,Daily
+761,User_761,64,Male,Location_61,2023-02-07,806,Food,1,Daily
+762,User_762,50,Female,Location_62,2023-08-20,256,Clothing,2,Monthly
+763,User_763,52,Female,Location_63,2023-01-16,900,Electronics,3,Daily
+764,User_764,69,Female,Location_64,2023-08-14,863,Clothing,1,Monthly
+765,User_765,41,Female,Location_65,2023-09-25,789,Books,3,Monthly
+766,User_766,43,Female,Location_66,2023-05-14,525,Food,4,Daily
+767,User_767,64,Male,Location_67,2023-12-16,284,Electronics,1,Weekly
+768,User_768,68,Male,Location_68,2023-04-15,941,Clothing,2,Weekly
+769,User_769,61,Female,Location_69,2023-11-22,56,Books,4,Weekly
+770,User_770,70,Male,Location_70,2023-07-04,371,Clothing,3,Daily
+771,User_771,59,Female,Location_71,2023-03-29,155,Clothing,5,Weekly
+772,User_772,64,Female,Location_72,2023-01-09,121,Food,5,Monthly
+773,User_773,18,Female,Location_73,2023-12-09,165,Food,3,Weekly
+774,User_774,30,Female,Location_74,2023-04-25,64,Books,5,Monthly
+775,User_775,27,Male,Location_75,2023-05-11,633,Food,5,Weekly
+776,User_776,36,Female,Location_76,2023-06-28,723,Electronics,2,Monthly
+777,User_777,22,Female,Location_77,2023-11-28,413,Books,4,Weekly
+778,User_778,25,Female,Location_78,2023-01-22,209,Food,1,Weekly
+779,User_779,21,Male,Location_79,2023-10-17,593,Home & Garden,4,Monthly
+780,User_780,66,Female,Location_80,2023-12-15,879,Electronics,3,Weekly
+781,User_781,30,Male,Location_81,2023-09-28,437,Clothing,2,Weekly
+782,User_782,55,Male,Location_82,2023-11-14,950,Electronics,3,Weekly
+783,User_783,70,Female,Location_83,2023-03-14,632,Electronics,4,Daily
+784,User_784,63,Male,Location_84,2024-01-01,696,Electronics,2,Daily
+785,User_785,66,Male,Location_85,2023-09-10,684,Home & Garden,2,Weekly
+786,User_786,63,Female,Location_86,2023-01-02,683,Electronics,4,Weekly
+787,User_787,36,Female,Location_87,2023-12-28,84,Home & Garden,1,Daily
+788,User_788,69,Male,Location_88,2023-09-28,385,Home & Garden,4,Monthly
+789,User_789,67,Female,Location_89,2023-08-27,847,Food,2,Weekly
+790,User_790,25,Male,Location_90,2023-12-22,486,Home & Garden,2,Weekly
+791,User_791,44,Female,Location_91,2023-03-22,824,Home & Garden,1,Monthly
+792,User_792,67,Female,Location_92,2023-01-13,938,Books,1,Monthly
+793,User_793,64,Female,Location_93,2023-01-05,221,Home & Garden,3,Monthly
+794,User_794,47,Male,Location_94,2023-05-06,433,Electronics,3,Weekly
+795,User_795,21,Male,Location_95,2023-12-19,424,Clothing,2,Monthly
+796,User_796,28,Male,Location_96,2023-04-01,233,Home & Garden,3,Monthly
+797,User_797,38,Female,Location_97,2023-11-21,889,Home & Garden,1,Daily
+798,User_798,60,Male,Location_98,2023-06-11,185,Food,3,Monthly
+799,User_799,19,Female,Location_99,2023-11-11,907,Food,3,Weekly
+800,User_800,38,Female,Location_0,2023-09-16,938,Electronics,2,Weekly
+801,User_801,34,Male,Location_1,2023-08-10,904,Books,4,Daily
+802,User_802,60,Female,Location_2,2023-05-04,114,Home & Garden,4,Weekly
+803,User_803,68,Male,Location_3,2023-12-18,379,Clothing,5,Weekly
+804,User_804,46,Female,Location_4,2023-07-21,713,Home & Garden,5,Daily
+805,User_805,44,Male,Location_5,2023-09-09,129,Books,2,Monthly
+806,User_806,41,Female,Location_6,2023-08-22,311,Books,2,Monthly
+807,User_807,70,Female,Location_7,2023-03-04,193,Clothing,4,Weekly
+808,User_808,66,Male,Location_8,2023-03-02,120,Electronics,2,Daily
+809,User_809,20,Male,Location_9,2023-04-22,896,Home & Garden,1,Monthly
+810,User_810,56,Female,Location_10,2023-03-07,330,Home & Garden,2,Weekly
+811,User_811,27,Male,Location_11,2023-10-24,879,Food,3,Monthly
+812,User_812,20,Female,Location_12,2023-01-06,479,Electronics,2,Weekly
+813,User_813,70,Female,Location_13,2023-04-04,672,Clothing,4,Monthly
+814,User_814,62,Female,Location_14,2023-04-04,421,Home & Garden,1,Monthly
+815,User_815,59,Female,Location_15,2023-04-10,15,Books,5,Weekly
+816,User_816,43,Female,Location_16,2023-12-27,887,Electronics,1,Monthly
+817,User_817,54,Male,Location_17,2023-10-26,45,Books,1,Weekly
+818,User_818,44,Male,Location_18,2023-07-19,887,Books,3,Daily
+819,User_819,22,Male,Location_19,2023-04-02,813,Home & Garden,1,Monthly
+820,User_820,59,Female,Location_20,2023-09-29,646,Clothing,2,Daily
+821,User_821,28,Male,Location_21,2023-03-20,626,Clothing,4,Weekly
+822,User_822,30,Male,Location_22,2023-11-15,205,Clothing,1,Monthly
+823,User_823,58,Male,Location_23,2023-03-30,166,Home & Garden,1,Monthly
+824,User_824,51,Female,Location_24,2023-11-07,613,Food,2,Monthly
+825,User_825,55,Male,Location_25,2023-02-05,773,Clothing,1,Daily
+826,User_826,57,Male,Location_26,2023-09-15,147,Books,5,Monthly
+827,User_827,50,Male,Location_27,2023-12-01,309,Books,1,Monthly
+828,User_828,51,Female,Location_28,2023-10-10,653,Food,1,Weekly
+829,User_829,44,Male,Location_29,2023-10-27,117,Electronics,1,Monthly
+830,User_830,53,Female,Location_30,2023-08-07,917,Home & Garden,5,Monthly
+831,User_831,43,Female,Location_31,2023-07-26,957,Home & Garden,5,Daily
+832,User_832,68,Male,Location_32,2023-04-01,480,Books,5,Daily
+833,User_833,42,Female,Location_33,2023-03-12,628,Clothing,5,Monthly
+834,User_834,36,Male,Location_34,2023-11-01,756,Clothing,1,Daily
+835,User_835,38,Female,Location_35,2023-09-26,142,Food,2,Monthly
+836,User_836,48,Male,Location_36,2023-05-02,679,Electronics,4,Monthly
+837,User_837,46,Male,Location_37,2023-05-10,326,Clothing,4,Monthly
+838,User_838,26,Female,Location_38,2023-05-24,438,Clothing,1,Monthly
+839,User_839,36,Male,Location_39,2023-09-01,12,Books,3,Monthly
+840,User_840,43,Female,Location_40,2023-06-25,79,Clothing,4,Daily
+841,User_841,42,Male,Location_41,2023-06-11,569,Home & Garden,5,Weekly
+842,User_842,57,Female,Location_42,2023-10-13,214,Clothing,3,Monthly
+843,User_843,60,Female,Location_43,2023-08-20,667,Clothing,2,Monthly
+844,User_844,46,Female,Location_44,2023-03-06,89,Electronics,3,Monthly
+845,User_845,42,Female,Location_45,2023-07-27,706,Home & Garden,2,Monthly
+846,User_846,36,Female,Location_46,2023-10-17,563,Food,3,Daily
+847,User_847,21,Male,Location_47,2023-07-04,930,Home & Garden,4,Monthly
+848,User_848,62,Male,Location_48,2023-10-03,735,Food,5,Weekly
+849,User_849,37,Female,Location_49,2023-08-20,626,Electronics,2,Weekly
+850,User_850,63,Male,Location_50,2023-09-03,525,Electronics,2,Monthly
+851,User_851,18,Male,Location_51,2023-08-24,710,Books,3,Monthly
+852,User_852,28,Female,Location_52,2023-07-31,824,Electronics,5,Monthly
+853,User_853,21,Female,Location_53,2023-05-08,378,Clothing,1,Weekly
+854,User_854,24,Female,Location_54,2023-03-26,169,Home & Garden,2,Daily
+855,User_855,45,Female,Location_55,2023-12-19,464,Food,5,Daily
+856,User_856,53,Male,Location_56,2023-05-27,829,Home & Garden,1,Daily
+857,User_857,24,Male,Location_57,2023-10-31,107,Home & Garden,2,Weekly
+858,User_858,37,Female,Location_58,2023-11-05,185,Home & Garden,5,Weekly
+859,User_859,52,Male,Location_59,2023-03-14,277,Home & Garden,2,Daily
+860,User_860,68,Male,Location_60,2023-09-16,881,Home & Garden,4,Monthly
+861,User_861,68,Female,Location_61,2023-02-10,328,Electronics,5,Monthly
+862,User_862,56,Male,Location_62,2023-03-02,658,Home & Garden,3,Daily
+863,User_863,38,Male,Location_63,2023-12-07,200,Home & Garden,3,Daily
+864,User_864,61,Female,Location_64,2023-04-08,141,Food,1,Weekly
+865,User_865,18,Male,Location_65,2023-11-10,961,Home & Garden,4,Weekly
+866,User_866,54,Male,Location_66,2023-02-09,117,Home & Garden,1,Weekly
+867,User_867,63,Male,Location_67,2023-04-23,832,Home & Garden,3,Daily
+868,User_868,59,Female,Location_68,2023-10-20,753,Clothing,5,Daily
+869,User_869,20,Female,Location_69,2023-10-21,179,Clothing,4,Monthly
+870,User_870,51,Male,Location_70,2023-08-10,320,Clothing,2,Weekly
+871,User_871,30,Female,Location_71,2023-01-15,291,Home & Garden,2,Monthly
+872,User_872,33,Male,Location_72,2023-01-16,887,Electronics,5,Monthly
+873,User_873,51,Female,Location_73,2023-04-22,400,Clothing,3,Monthly
+874,User_874,41,Male,Location_74,2023-05-17,81,Books,1,Weekly
+875,User_875,30,Female,Location_75,2023-03-13,754,Clothing,3,Daily
+876,User_876,23,Male,Location_76,2023-07-09,969,Food,5,Weekly
+877,User_877,56,Male,Location_77,2023-06-27,359,Electronics,3,Weekly
+878,User_878,19,Female,Location_78,2023-12-26,776,Food,1,Weekly
+879,User_879,28,Male,Location_79,2023-09-04,975,Food,1,Monthly
+880,User_880,24,Male,Location_80,2023-12-31,560,Clothing,4,Monthly
+881,User_881,24,Female,Location_81,2023-06-24,973,Food,4,Monthly
+882,User_882,56,Female,Location_82,2023-06-22,273,Food,4,Daily
+883,User_883,56,Male,Location_83,2023-08-29,380,Electronics,3,Daily
+884,User_884,29,Male,Location_84,2023-03-30,949,Clothing,2,Daily
+885,User_885,68,Male,Location_85,2023-03-05,929,Electronics,3,Daily
+886,User_886,39,Female,Location_86,2023-04-20,226,Home & Garden,1,Weekly
+887,User_887,68,Female,Location_87,2023-06-01,807,Clothing,4,Monthly
+888,User_888,68,Male,Location_88,2023-07-21,317,Food,5,Monthly
+889,User_889,69,Male,Location_89,2023-07-31,923,Clothing,2,Weekly
+890,User_890,20,Male,Location_90,2023-08-06,706,Clothing,3,Weekly
+891,User_891,30,Male,Location_91,2023-01-26,309,Home & Garden,2,Monthly
+892,User_892,47,Female,Location_92,2023-05-15,939,Electronics,5,Monthly
+893,User_893,27,Male,Location_93,2023-11-28,826,Clothing,4,Daily
+894,User_894,69,Male,Location_94,2023-05-05,728,Clothing,4,Daily
+895,User_895,26,Female,Location_95,2023-11-01,884,Books,1,Weekly
+896,User_896,23,Female,Location_96,2023-07-30,436,Clothing,3,Monthly
+897,User_897,70,Female,Location_97,2023-05-18,730,Electronics,1,Monthly
+898,User_898,61,Female,Location_98,2023-10-20,249,Books,2,Daily
+899,User_899,19,Male,Location_99,2023-02-07,139,Food,5,Daily
+900,User_900,61,Male,Location_0,2023-11-10,372,Food,5,Monthly
+901,User_901,33,Female,Location_1,2023-10-09,575,Clothing,1,Weekly
+902,User_902,30,Female,Location_2,2023-02-17,458,Electronics,1,Daily
+903,User_903,65,Male,Location_3,2023-11-14,765,Clothing,2,Monthly
+904,User_904,30,Male,Location_4,2023-03-08,393,Food,4,Weekly
+905,User_905,39,Male,Location_5,2023-08-13,66,Clothing,5,Monthly
+906,User_906,36,Female,Location_6,2023-04-11,153,Clothing,1,Monthly
+907,User_907,43,Female,Location_7,2023-07-30,346,Food,5,Monthly
+908,User_908,31,Female,Location_8,2023-10-03,210,Food,4,Weekly
+909,User_909,48,Male,Location_9,2023-11-28,371,Books,5,Weekly
+910,User_910,46,Male,Location_10,2023-02-09,670,Books,4,Monthly
+911,User_911,62,Male,Location_11,2023-11-25,711,Electronics,4,Monthly
+912,User_912,59,Female,Location_12,2023-12-26,201,Electronics,3,Weekly
+913,User_913,39,Female,Location_13,2023-02-21,832,Food,2,Monthly
+914,User_914,24,Male,Location_14,2023-10-08,437,Electronics,5,Monthly
+915,User_915,54,Male,Location_15,2023-12-29,419,Electronics,4,Weekly
+916,User_916,66,Female,Location_16,2023-10-18,138,Books,5,Daily
+917,User_917,58,Female,Location_17,2023-05-12,133,Food,1,Weekly
+918,User_918,44,Female,Location_18,2023-04-09,315,Books,2,Daily
+919,User_919,48,Male,Location_19,2023-10-15,433,Clothing,2,Daily
+920,User_920,23,Male,Location_20,2023-06-04,396,Food,1,Weekly
+921,User_921,33,Female,Location_21,2023-03-25,208,Home & Garden,1,Daily
+922,User_922,55,Male,Location_22,2023-01-03,909,Electronics,5,Monthly
+923,User_923,55,Female,Location_23,2023-04-21,808,Electronics,3,Weekly
+924,User_924,67,Male,Location_24,2023-10-13,791,Food,5,Daily
+925,User_925,49,Male,Location_25,2023-07-22,798,Home & Garden,5,Daily
+926,User_926,50,Male,Location_26,2023-11-10,894,Food,4,Weekly
+927,User_927,66,Female,Location_27,2023-10-13,341,Electronics,5,Weekly
+928,User_928,34,Male,Location_28,2023-06-27,277,Electronics,2,Monthly
+929,User_929,50,Female,Location_29,2023-09-24,655,Food,3,Daily
+930,User_930,28,Male,Location_30,2023-08-27,890,Clothing,1,Weekly
+931,User_931,30,Female,Location_31,2023-07-31,666,Books,2,Daily
+932,User_932,47,Female,Location_32,2023-11-11,471,Food,1,Daily
+933,User_933,18,Female,Location_33,2023-01-31,200,Clothing,4,Daily
+934,User_934,47,Female,Location_34,2023-03-24,402,Home & Garden,5,Weekly
+935,User_935,44,Female,Location_35,2023-08-22,37,Electronics,4,Monthly
+936,User_936,57,Male,Location_36,2023-01-08,912,Electronics,1,Daily
+937,User_937,40,Male,Location_37,2023-06-02,374,Food,5,Weekly
+938,User_938,37,Female,Location_38,2023-09-20,768,Home & Garden,5,Daily
+939,User_939,23,Female,Location_39,2023-05-05,564,Food,4,Monthly
+940,User_940,54,Female,Location_40,2023-03-28,654,Books,1,Daily
+941,User_941,37,Male,Location_41,2023-01-03,755,Food,3,Monthly
+942,User_942,54,Female,Location_42,2023-09-16,409,Electronics,4,Weekly
+943,User_943,23,Male,Location_43,2023-12-10,966,Electronics,2,Weekly
+944,User_944,46,Female,Location_44,2023-01-18,394,Clothing,2,Weekly
+945,User_945,30,Male,Location_45,2023-11-19,177,Books,2,Daily
+946,User_946,44,Female,Location_46,2023-12-26,559,Clothing,1,Monthly
+947,User_947,67,Male,Location_47,2023-06-10,528,Books,2,Daily
+948,User_948,37,Male,Location_48,2023-08-09,765,Electronics,2,Monthly
+949,User_949,30,Female,Location_49,2023-08-29,615,Food,5,Weekly
+950,User_950,56,Female,Location_50,2023-04-02,836,Electronics,5,Daily
+951,User_951,25,Female,Location_51,2023-05-06,889,Clothing,5,Weekly
+952,User_952,70,Female,Location_52,2023-08-24,931,Clothing,1,Weekly
+953,User_953,34,Male,Location_53,2023-12-05,598,Food,2,Monthly
+954,User_954,47,Male,Location_54,2023-05-11,74,Home & Garden,4,Monthly
+955,User_955,18,Male,Location_55,2023-06-08,968,Electronics,2,Monthly
+956,User_956,41,Male,Location_56,2023-11-11,958,Clothing,5,Daily
+957,User_957,33,Male,Location_57,2023-05-31,60,Home & Garden,2,Weekly
+958,User_958,28,Male,Location_58,2023-02-16,187,Home & Garden,5,Daily
+959,User_959,21,Female,Location_59,2023-07-27,422,Electronics,2,Monthly
+960,User_960,21,Male,Location_60,2023-12-19,977,Clothing,1,Monthly
+961,User_961,34,Male,Location_61,2023-01-18,459,Home & Garden,3,Monthly
+962,User_962,66,Male,Location_62,2023-05-04,630,Clothing,3,Weekly
+963,User_963,27,Female,Location_63,2023-07-11,762,Home & Garden,2,Weekly
+964,User_964,38,Male,Location_64,2023-07-12,60,Electronics,4,Monthly
+965,User_965,70,Female,Location_65,2023-09-26,401,Electronics,2,Weekly
+966,User_966,55,Male,Location_66,2023-04-16,804,Clothing,2,Weekly
+967,User_967,66,Male,Location_67,2023-08-16,690,Electronics,3,Daily
+968,User_968,35,Female,Location_68,2023-10-30,327,Books,2,Daily
+969,User_969,27,Male,Location_69,2023-04-02,698,Electronics,2,Monthly
+970,User_970,62,Male,Location_70,2023-06-15,504,Food,5,Monthly
+971,User_971,33,Female,Location_71,2023-09-04,160,Electronics,2,Weekly
+972,User_972,56,Female,Location_72,2023-02-21,792,Clothing,5,Daily
+973,User_973,32,Male,Location_73,2023-06-14,329,Home & Garden,1,Daily
+974,User_974,51,Male,Location_74,2023-05-08,489,Books,4,Monthly
+975,User_975,22,Female,Location_75,2023-12-20,863,Clothing,2,Daily
+976,User_976,34,Female,Location_76,2023-07-28,574,Clothing,5,Weekly
+977,User_977,54,Female,Location_77,2023-10-15,401,Home & Garden,5,Daily
+978,User_978,25,Female,Location_78,2023-01-06,46,Home & Garden,2,Daily
+979,User_979,41,Male,Location_79,2023-10-16,474,Food,3,Monthly
+980,User_980,45,Male,Location_80,2023-08-17,720,Clothing,3,Daily
+981,User_981,64,Female,Location_81,2023-06-27,244,Books,2,Monthly
+982,User_982,25,Male,Location_82,2023-10-17,414,Food,2,Monthly
+983,User_983,40,Female,Location_83,2023-05-17,560,Food,3,Daily
+984,User_984,52,Female,Location_84,2023-07-28,398,Books,2,Monthly
+985,User_985,48,Male,Location_85,2023-09-14,154,Home & Garden,2,Weekly
+986,User_986,34,Female,Location_86,2023-10-18,748,Home & Garden,3,Monthly
+987,User_987,45,Female,Location_87,2023-02-20,121,Clothing,5,Monthly
+988,User_988,65,Male,Location_88,2023-08-11,194,Food,1,Daily
+989,User_989,65,Male,Location_89,2023-07-25,261,Books,2,Daily
+990,User_990,68,Female,Location_90,2023-04-22,889,Books,3,Monthly
+991,User_991,29,Male,Location_91,2023-06-07,792,Books,2,Monthly
+992,User_992,41,Male,Location_92,2023-09-15,753,Food,2,Monthly
+993,User_993,32,Male,Location_93,2023-09-09,137,Electronics,5,Weekly
+994,User_994,57,Male,Location_94,2023-12-21,25,Electronics,1,Daily
+995,User_995,48,Male,Location_95,2023-04-05,482,Clothing,2,Weekly
+996,User_996,44,Male,Location_96,2023-03-26,664,Food,1,Daily
+997,User_997,52,Female,Location_97,2023-03-30,916,Food,3,Daily
+998,User_998,35,Male,Location_98,2023-08-04,768,Electronics,3,Weekly
+999,User_999,53,Female,Location_99,2023-04-26,270,Home & Garden,4,Weekly
+1000,User_1000,25,Female,Location_0,2023-01-19,606,Electronics,5,Daily

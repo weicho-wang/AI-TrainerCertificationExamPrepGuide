@@ -1,0 +1,879 @@
+VehicleID,DriverName,Age,Gender,Speed,TravelDistance,TravelTime,TrafficEvent
+1,Driver_1,62,Male,17.0,242.0,854.1176471,Normal
+2,Driver_2,65,Male,128.0,438.0,205.3125,Accident
+3,Driver_3,18,Male,167.0,792.0,284.5508982,Breakdown
+5,Driver_5,21,Male,193.0,364.0,113.1606218,Breakdown
+6,Driver_6,57,Female,48.0,620.0,775.0,Accident
+7,Driver_7,27,Female,45.0,535.0,713.3333333,Normal
+8,Driver_8,37,Male,122.0,349.0,171.6393443,Breakdown
+9,Driver_9,39,Male,177.0,44.0,14.91525424,Accident
+10,Driver_10,68,Male,22.0,7.0,19.09090909,Breakdown
+11,Driver_11,54,Male,92.0,910.0,593.4782609,Traffic Jam
+12,Driver_12,41,Female,65.0,206.0,190.1538462,Traffic Jam
+13,Driver_13,24,Female,85.0,146.0,103.0588235,Breakdown
+14,Driver_14,42,Male,66.0,425.0,386.3636364,Traffic Jam
+15,Driver_15,42,Male,32.0,638.0,1196.25,Accident
+16,Driver_16,30,Female,178.0,479.0,161.4606742,Normal
+17,Driver_17,19,Male,70.0,453.0,388.2857143,Normal
+18,Driver_18,56,Female,102.0,787.0,462.9411765,Breakdown
+19,Driver_19,57,Female,163.0,753.0,277.1779141,Breakdown
+20,Driver_20,41,Male,151.0,131.0,52.05298013,Accident
+21,Driver_21,64,Male,122.0,28.0,13.7704918,Normal
+22,Driver_22,42,Female,82.0,393.0,287.5609756,Normal
+23,Driver_23,35,Female,102.0,748.0,440.0,Accident
+24,Driver_24,55,Male,89.0,208.0,140.2247191,Traffic Jam
+25,Driver_25,43,Female,79.0,564.0,428.3544304,Normal
+26,Driver_26,31,Male,113.0,216.0,114.6902655,Breakdown
+27,Driver_27,26,Male,155.0,944.0,365.4193548,Traffic Jam
+28,Driver_28,27,Female,85.0,832.0,587.2941176,Normal
+31,Driver_31,34,Male,115.0,861.0,449.2173913,Normal
+32,Driver_32,69,Female,81.0,943.0,698.5185185,Normal
+33,Driver_33,23,Male,139.0,911.0,393.2374101,Accident
+34,Driver_34,33,Male,64.0,755.0,707.8125,Breakdown
+35,Driver_35,65,Male,67.0,175.0,156.7164179,Normal
+36,Driver_36,18,Female,189.0,174.0,55.23809524,Normal
+37,Driver_37,36,Female,54.0,610.0,677.7777778,Breakdown
+38,Driver_38,53,Female,36.0,261.0,435.0,Accident
+39,Driver_39,42,Male,126.0,885.0,421.4285714,Traffic Jam
+41,Driver_41,69,Female,197.0,373.0,113.6040609,Accident
+42,Driver_42,47,Male,125.0,64.0,30.72,Traffic Jam
+43,Driver_43,37,Male,190.0,275.0,86.84210526,Breakdown
+44,Driver_44,37,Female,196.0,485.0,148.4693878,Accident
+45,Driver_45,32,Female,169.0,201.0,71.36094675,Normal
+46,Driver_46,57,Female,144.0,120.0,50.0,Normal
+47,Driver_47,50,Female,185.0,315.0,102.1621622,Traffic Jam
+48,Driver_48,19,Male,133.0,714.0,322.1052632,Normal
+49,Driver_49,27,Female,96.0,751.0,469.375,Traffic Jam
+50,Driver_50,50,Female,22.0,398.0,1085.454545,Accident
+51,Driver_51,49,Male,131.0,525.0,240.4580153,Normal
+52,Driver_52,28,Male,136.0,670.0,295.5882353,Traffic Jam
+53,Driver_53,41,Female,62.0,591.0,571.9354839,Breakdown
+54,Driver_54,53,Female,92.0,361.0,235.4347826,Accident
+55,Driver_55,29,Female,169.0,78.0,27.69230769,Normal
+56,Driver_56,68,Female,74.0,650.0,527.027027,Normal
+57,Driver_57,46,Female,102.0,943.0,554.7058824,Traffic Jam
+58,Driver_58,52,Male,92.0,701.0,457.173913,Breakdown
+59,Driver_59,18,Male,95.0,589.0,372.0,Normal
+60,Driver_60,18,Female,108.0,230.0,127.7777778,Traffic Jam
+61,Driver_61,54,Male,139.0,670.0,289.2086331,Normal
+62,Driver_62,23,Female,162.0,110.0,40.74074074,Accident
+63,Driver_63,56,Male,91.0,76.0,50.10989011,Normal
+64,Driver_64,58,Female,49.0,493.0,603.6734694,Traffic Jam
+65,Driver_65,35,Female,71.0,882.0,745.3521127,Traffic Jam
+66,Driver_66,33,Male,167.0,921.0,330.8982036,Traffic Jam
+67,Driver_67,22,Female,102.0,828.0,487.0588235,Breakdown
+68,Driver_68,59,Female,119.0,969.0,488.5714286,Breakdown
+69,Driver_69,60,Female,58.0,656.0,678.6206897,Accident
+71,Driver_71,19,Female,73.0,673.0,553.1506849,Breakdown
+72,Driver_72,19,Female,88.0,493.0,336.1363636,Normal
+73,Driver_73,57,Male,140.0,255.0,109.2857143,Normal
+74,Driver_74,59,Male,59.0,721.0,733.220339,Traffic Jam
+77,Driver_77,29,Male,150.0,115.0,46.0,Traffic Jam
+78,Driver_78,64,Male,180.0,370.0,123.3333333,Normal
+79,Driver_79,36,Male,66.0,12.0,10.90909091,Normal
+80,Driver_80,45,Male,71.0,272.0,229.8591549,Traffic Jam
+81,Driver_81,18,Female,109.0,282.0,155.2293578,Breakdown
+82,Driver_82,32,Female,72.0,790.0,658.3333333,Normal
+85,Driver_85,60,Male,79.0,989.0,751.1392405,Traffic Jam
+86,Driver_86,38,Male,79.0,763.0,579.4936709,Breakdown
+87,Driver_87,29,Female,41.0,860.0,1258.536585,Breakdown
+88,Driver_88,22,Male,150.0,109.0,43.6,Breakdown
+89,Driver_89,24,Male,147.0,457.0,186.5306122,Breakdown
+90,Driver_90,22,Male,62.0,860.0,832.2580645,Normal
+91,Driver_91,65,Female,29.0,477.0,986.8965517,Traffic Jam
+93,Driver_93,30,Female,139.0,620.0,267.6258993,Traffic Jam
+94,Driver_94,54,Male,125.0,104.0,49.92,Normal
+95,Driver_95,58,Female,99.0,100.0,60.60606061,Normal
+96,Driver_96,32,Female,26.0,415.0,957.6923077,Accident
+97,Driver_97,33,Male,103.0,757.0,440.9708738,Normal
+98,Driver_98,38,Female,72.0,938.0,781.6666667,Normal
+99,Driver_99,53,Male,129.0,759.0,353.0232558,Breakdown
+100,Driver_100,41,Female,99.0,394.0,238.7878788,Normal
+101,Driver_101,33,Female,114.0,887.0,466.8421053,Accident
+102,Driver_102,31,Male,174.0,821.0,283.1034483,Accident
+103,Driver_103,39,Male,55.0,300.0,327.2727273,Breakdown
+106,Driver_106,23,Male,95.0,401.0,253.2631579,Traffic Jam
+107,Driver_107,59,Female,43.0,65.0,90.69767442,Normal
+108,Driver_108,53,Male,141.0,795.0,338.2978723,Breakdown
+109,Driver_109,18,Male,55.0,136.0,148.3636364,Traffic Jam
+111,Driver_111,23,Female,151.0,851.0,338.1456954,Traffic Jam
+112,Driver_112,48,Female,42.0,955.0,1364.285714,Accident
+113,Driver_113,18,Female,103.0,332.0,193.3980583,Breakdown
+114,Driver_114,67,Female,49.0,314.0,384.4897959,Accident
+115,Driver_115,68,Female,101.0,699.0,415.2475248,Normal
+116,Driver_116,54,Male,102.0,973.0,572.3529412,Accident
+117,Driver_117,52,Female,75.0,270.0,216.0,Accident
+118,Driver_118,66,Male,117.0,969.0,496.9230769,Traffic Jam
+119,Driver_119,47,Male,184.0,233.0,75.97826087,Breakdown
+120,Driver_120,21,Female,171.0,787.0,276.1403509,Breakdown
+121,Driver_121,52,Male,152.0,146.0,57.63157895,Accident
+122,Driver_122,60,Female,81.0,171.0,126.6666667,Normal
+123,Driver_123,31,Male,21.0,301.0,860.0,Normal
+124,Driver_124,66,Male,146.0,227.0,93.28767123,Accident
+125,Driver_125,57,Male,63.0,716.0,681.9047619,Normal
+126,Driver_126,39,Female,89.0,856.0,577.0786517,Accident
+128,Driver_128,18,Female,37.0,207.0,335.6756757,Normal
+129,Driver_129,28,Female,177.0,559.0,189.4915254,Traffic Jam
+130,Driver_130,68,Male,168.0,567.0,202.5,Accident
+131,Driver_131,61,Female,106.0,691.0,391.1320755,Normal
+132,Driver_132,41,Female,103.0,44.0,25.63106796,Traffic Jam
+134,Driver_134,52,Male,56.0,975.0,1044.642857,Accident
+135,Driver_135,53,Female,191.0,358.0,112.460733,Normal
+136,Driver_136,48,Male,142.0,263.0,111.1267606,Breakdown
+137,Driver_137,21,Female,32.0,122.0,228.75,Accident
+138,Driver_138,36,Male,193.0,176.0,54.71502591,Traffic Jam
+139,Driver_139,64,Female,121.0,173.0,85.78512397,Accident
+140,Driver_140,53,Male,117.0,778.0,398.974359,Breakdown
+141,Driver_141,38,Female,65.0,516.0,476.3076923,Traffic Jam
+142,Driver_142,35,Male,36.0,394.0,656.6666667,Traffic Jam
+143,Driver_143,68,Female,25.0,124.0,297.6,Breakdown
+144,Driver_144,45,Female,72.0,757.0,630.8333333,Normal
+145,Driver_145,32,Female,50.0,508.0,609.6,Traffic Jam
+146,Driver_146,59,Female,12.0,35.0,175.0,Traffic Jam
+147,Driver_147,19,Female,152.0,479.0,189.0789474,Normal
+148,Driver_148,54,Female,147.0,514.0,209.7959184,Traffic Jam
+149,Driver_149,28,Male,195.0,295.0,90.76923077,Normal
+150,Driver_150,40,Female,138.0,207.0,90.0,Breakdown
+152,Driver_152,58,Female,180.0,863.0,287.6666667,Normal
+153,Driver_153,29,Male,92.0,435.0,283.6956522,Traffic Jam
+154,Driver_154,20,Female,14.0,142.0,608.5714286,Accident
+155,Driver_155,69,Male,46.0,855.0,1115.217391,Traffic Jam
+156,Driver_156,34,Female,35.0,47.0,80.57142857,Accident
+157,Driver_157,50,Male,151.0,996.0,395.7615894,Traffic Jam
+158,Driver_158,18,Female,61.0,856.0,841.9672131,Breakdown
+159,Driver_159,56,Male,117.0,806.0,413.3333333,Normal
+160,Driver_160,37,Male,181.0,862.0,285.7458564,Traffic Jam
+162,Driver_162,60,Female,173.0,747.0,259.0751445,Accident
+164,Driver_164,58,Female,175.0,83.0,28.45714286,Accident
+165,Driver_165,31,Female,110.0,983.0,536.1818182,Traffic Jam
+166,Driver_166,48,Female,167.0,519.0,186.4670659,Normal
+167,Driver_167,42,Female,94.0,587.0,374.6808511,Normal
+168,Driver_168,20,Male,147.0,428.0,174.6938776,Traffic Jam
+169,Driver_169,21,Female,109.0,514.0,282.9357798,Accident
+170,Driver_170,48,Male,178.0,458.0,154.3820225,Traffic Jam
+171,Driver_171,52,Female,65.0,475.0,438.4615385,Traffic Jam
+172,Driver_172,61,Male,171.0,177.0,62.10526316,Traffic Jam
+173,Driver_173,31,Female,82.0,848.0,620.4878049,Accident
+174,Driver_174,66,Female,89.0,402.0,271.011236,Breakdown
+175,Driver_175,58,Male,101.0,276.0,163.960396,Traffic Jam
+176,Driver_176,26,Female,120.0,255.0,127.5,Breakdown
+177,Driver_177,37,Female,184.0,148.0,48.26086957,Normal
+178,Driver_178,49,Female,72.0,834.0,695.0,Traffic Jam
+179,Driver_179,26,Female,178.0,412.0,138.8764045,Traffic Jam
+180,Driver_180,44,Female,34.0,741.0,1307.647059,Normal
+182,Driver_182,21,Female,108.0,266.0,147.7777778,Traffic Jam
+183,Driver_183,62,Female,139.0,746.0,322.0143885,Accident
+184,Driver_184,32,Male,104.0,14.0,8.076923077,Breakdown
+185,Driver_185,50,Female,164.0,438.0,160.2439024,Breakdown
+186,Driver_186,22,Male,126.0,327.0,155.7142857,Traffic Jam
+187,Driver_187,21,Female,177.0,985.0,333.8983051,Accident
+188,Driver_188,63,Male,48.0,779.0,973.75,Breakdown
+189,Driver_189,29,Male,74.0,122.0,98.91891892,Traffic Jam
+190,Driver_190,40,Male,139.0,300.0,129.4964029,Breakdown
+191,Driver_191,31,Female,93.0,614.0,396.1290323,Traffic Jam
+192,Driver_192,63,Female,34.0,390.0,688.2352941,Traffic Jam
+193,Driver_193,29,Male,39.0,169.0,260.0,Accident
+194,Driver_194,34,Female,112.0,245.0,131.25,Normal
+196,Driver_196,47,Male,2.0,15.0,450.0,Breakdown
+197,Driver_197,39,Female,121.0,470.0,233.0578512,Breakdown
+199,Driver_199,43,Male,174.0,292.0,100.6896552,Breakdown
+200,Driver_200,34,Female,51.0,610.0,717.6470588,Breakdown
+201,Driver_201,37,Male,169.0,399.0,141.6568047,Traffic Jam
+202,Driver_202,51,Female,91.0,775.0,510.989011,Traffic Jam
+203,Driver_203,58,Female,131.0,601.0,275.2671756,Traffic Jam
+205,Driver_205,54,Female,63.0,4.0,3.80952381,Breakdown
+206,Driver_206,24,Male,64.0,325.0,304.6875,Traffic Jam
+207,Driver_207,39,Female,13.0,102.0,470.7692308,Accident
+208,Driver_208,49,Female,38.0,489.0,772.1052632,Breakdown
+211,Driver_211,42,Male,147.0,627.0,255.9183673,Accident
+212,Driver_212,33,Female,81.0,580.0,429.6296296,Accident
+213,Driver_213,59,Female,144.0,803.0,334.5833333,Normal
+214,Driver_214,36,Female,126.0,426.0,202.8571429,Normal
+215,Driver_215,58,Female,71.0,782.0,660.8450704,Traffic Jam
+216,Driver_216,33,Female,152.0,896.0,353.6842105,Normal
+217,Driver_217,29,Male,11.0,114.0,621.8181818,Breakdown
+218,Driver_218,56,Female,150.0,402.0,160.8,Accident
+219,Driver_219,65,Male,60.0,363.0,363.0,Traffic Jam
+220,Driver_220,47,Male,130.0,681.0,314.3076923,Normal
+221,Driver_221,19,Female,136.0,494.0,217.9411765,Accident
+222,Driver_222,49,Male,72.0,971.0,809.1666667,Normal
+223,Driver_223,62,Female,38.0,807.0,1274.210526,Traffic Jam
+224,Driver_224,42,Male,52.0,555.0,640.3846154,Breakdown
+225,Driver_225,42,Male,88.0,324.0,220.9090909,Accident
+226,Driver_226,21,Female,63.0,284.0,270.4761905,Normal
+227,Driver_227,36,Male,149.0,957.0,385.3691275,Traffic Jam
+229,Driver_229,21,Female,159.0,755.0,284.9056604,Normal
+230,Driver_230,60,Female,165.0,931.0,338.5454545,Breakdown
+232,Driver_232,56,Female,150.0,747.0,298.8,Traffic Jam
+233,Driver_233,53,Female,124.0,616.0,298.0645161,Accident
+234,Driver_234,40,Male,42.0,691.0,987.1428571,Accident
+235,Driver_235,23,Male,187.0,45.0,14.43850267,Normal
+236,Driver_236,41,Female,54.0,341.0,378.8888889,Accident
+237,Driver_237,61,Male,115.0,565.0,294.7826087,Normal
+238,Driver_238,50,Male,179.0,922.0,309.0502793,Normal
+239,Driver_239,29,Female,82.0,716.0,523.902439,Accident
+240,Driver_240,58,Male,23.0,173.0,451.3043478,Normal
+241,Driver_241,38,Female,83.0,82.0,59.27710843,Breakdown
+243,Driver_243,61,Male,57.0,596.0,627.3684211,Accident
+244,Driver_244,55,Female,197.0,712.0,216.8527919,Breakdown
+245,Driver_245,46,Female,89.0,256.0,172.5842697,Traffic Jam
+246,Driver_246,65,Female,45.0,837.0,1116.0,Normal
+247,Driver_247,58,Female,111.0,608.0,328.6486486,Normal
+248,Driver_248,20,Male,88.0,350.0,238.6363636,Normal
+249,Driver_249,45,Female,179.0,107.0,35.86592179,Accident
+250,Driver_250,37,Male,59.0,755.0,767.7966102,Breakdown
+251,Driver_251,43,Female,172.0,604.0,210.6976744,Traffic Jam
+252,Driver_252,41,Male,154.0,161.0,62.72727273,Accident
+253,Driver_253,69,Male,120.0,492.0,246.0,Accident
+254,Driver_254,64,Female,117.0,938.0,481.025641,Accident
+255,Driver_255,38,Male,171.0,211.0,74.03508772,Traffic Jam
+256,Driver_256,47,Female,121.0,414.0,205.2892562,Accident
+257,Driver_257,21,Female,160.0,910.0,341.25,Accident
+258,Driver_258,53,Male,30.0,365.0,730.0,Accident
+259,Driver_259,57,Male,142.0,650.0,274.6478873,Traffic Jam
+260,Driver_260,27,Male,71.0,55.0,46.47887324,Traffic Jam
+261,Driver_261,27,Male,96.0,905.0,565.625,Traffic Jam
+262,Driver_262,59,Female,189.0,26.0,8.253968254,Traffic Jam
+264,Driver_264,21,Female,175.0,530.0,181.7142857,Traffic Jam
+265,Driver_265,64,Male,124.0,498.0,240.9677419,Breakdown
+266,Driver_266,44,Male,109.0,432.0,237.7981651,Breakdown
+267,Driver_267,68,Female,118.0,529.0,268.9830508,Normal
+268,Driver_268,62,Male,171.0,562.0,197.1929825,Accident
+269,Driver_269,21,Female,15.0,63.0,252.0,Normal
+270,Driver_270,49,Male,68.0,840.0,741.1764706,Traffic Jam
+271,Driver_271,27,Male,85.0,863.0,609.1764706,Normal
+272,Driver_272,28,Female,167.0,977.0,351.0179641,Accident
+273,Driver_273,45,Female,106.0,87.0,49.24528302,Accident
+274,Driver_274,63,Female,94.0,508.0,324.2553191,Breakdown
+276,Driver_276,57,Female,81.0,266.0,197.037037,Normal
+277,Driver_277,39,Female,186.0,943.0,304.1935484,Accident
+279,Driver_279,62,Male,43.0,89.0,124.1860465,Normal
+280,Driver_280,52,Female,182.0,382.0,125.9340659,Traffic Jam
+281,Driver_281,52,Male,125.0,374.0,179.52,Accident
+282,Driver_282,42,Male,175.0,407.0,139.5428571,Traffic Jam
+283,Driver_283,51,Female,22.0,185.0,504.5454545,Traffic Jam
+284,Driver_284,23,Male,31.0,591.0,1143.870968,Accident
+285,Driver_285,58,Male,116.0,558.0,288.6206897,Normal
+286,Driver_286,54,Female,34.0,802.0,1415.294118,Traffic Jam
+287,Driver_287,18,Male,42.0,703.0,1004.285714,Breakdown
+288,Driver_288,29,Female,68.0,517.0,456.1764706,Normal
+289,Driver_289,52,Male,122.0,838.0,412.1311475,Accident
+290,Driver_290,23,Male,62.0,638.0,617.4193548,Accident
+291,Driver_291,34,Female,36.0,77.0,128.3333333,Accident
+292,Driver_292,26,Male,83.0,682.0,493.0120482,Accident
+293,Driver_293,19,Male,172.0,397.0,138.4883721,Accident
+294,Driver_294,35,Female,111.0,769.0,415.6756757,Breakdown
+295,Driver_295,66,Female,198.0,710.0,215.1515152,Accident
+297,Driver_297,45,Male,176.0,746.0,254.3181818,Accident
+298,Driver_298,58,Female,137.0,354.0,155.0364964,Breakdown
+300,Driver_300,66,Female,77.0,628.0,489.3506494,Traffic Jam
+301,Driver_301,43,Female,184.0,834.0,271.9565217,Accident
+302,Driver_302,21,Male,137.0,395.0,172.9927007,Breakdown
+303,Driver_303,57,Female,66.0,199.0,180.9090909,Normal
+304,Driver_304,53,Female,9.0,123.0,820.0,Accident
+305,Driver_305,68,Male,110.0,17.0,9.272727273,Accident
+306,Driver_306,48,Female,164.0,712.0,260.4878049,Accident
+307,Driver_307,47,Male,28.0,412.0,882.8571429,Accident
+308,Driver_308,67,Male,64.0,295.0,276.5625,Normal
+309,Driver_309,51,Male,124.0,108.0,52.25806452,Breakdown
+310,Driver_310,36,Female,141.0,85.0,36.17021277,Breakdown
+312,Driver_312,47,Male,165.0,723.0,262.9090909,Traffic Jam
+313,Driver_313,38,Male,199.0,628.0,189.3467337,Traffic Jam
+314,Driver_314,20,Male,87.0,455.0,313.7931034,Traffic Jam
+316,Driver_316,55,Female,111.0,675.0,364.8648649,Traffic Jam
+317,Driver_317,30,Male,80.0,114.0,85.5,Normal
+318,Driver_318,62,Female,82.0,715.0,523.1707317,Accident
+319,Driver_319,20,Female,50.0,768.0,921.6,Normal
+320,Driver_320,65,Female,189.0,360.0,114.2857143,Normal
+322,Driver_322,39,Female,35.0,41.0,70.28571429,Breakdown
+323,Driver_323,57,Female,53.0,924.0,1046.037736,Normal
+324,Driver_324,57,Female,26.0,95.0,219.2307692,Breakdown
+325,Driver_325,29,Female,113.0,165.0,87.61061947,Normal
+326,Driver_326,40,Female,103.0,99.0,57.66990291,Normal
+327,Driver_327,48,Male,42.0,572.0,817.1428571,Breakdown
+328,Driver_328,35,Female,46.0,602.0,785.2173913,Accident
+329,Driver_329,24,Female,197.0,924.0,281.4213198,Normal
+331,Driver_331,36,Male,127.0,128.0,60.47244094,Traffic Jam
+332,Driver_332,46,Male,171.0,955.0,335.0877193,Traffic Jam
+333,Driver_333,61,Male,83.0,288.0,208.1927711,Accident
+334,Driver_334,37,Female,62.0,817.0,790.6451613,Breakdown
+335,Driver_335,67,Female,74.0,127.0,102.972973,Normal
+336,Driver_336,59,Female,137.0,388.0,169.9270073,Traffic Jam
+337,Driver_337,47,Female,75.0,321.0,256.8,Normal
+338,Driver_338,64,Female,96.0,550.0,343.75,Traffic Jam
+339,Driver_339,39,Male,166.0,504.0,182.1686747,Breakdown
+340,Driver_340,27,Female,31.0,680.0,1316.129032,Breakdown
+341,Driver_341,43,Male,150.0,13.0,5.2,Traffic Jam
+342,Driver_342,68,Male,126.0,853.0,406.1904762,Traffic Jam
+343,Driver_343,50,Male,91.0,460.0,303.2967033,Traffic Jam
+344,Driver_344,45,Female,57.0,333.0,350.5263158,Normal
+346,Driver_346,46,Male,61.0,371.0,364.9180328,Accident
+348,Driver_348,35,Male,115.0,944.0,492.5217391,Traffic Jam
+349,Driver_349,59,Male,107.0,314.0,176.0747664,Accident
+350,Driver_350,18,Male,99.0,150.0,90.90909091,Normal
+351,Driver_351,40,Male,169.0,877.0,311.3609467,Traffic Jam
+352,Driver_352,34,Female,151.0,525.0,208.6092715,Accident
+353,Driver_353,60,Male,52.0,658.0,759.2307692,Normal
+354,Driver_354,54,Male,23.0,424.0,1106.086957,Normal
+355,Driver_355,48,Male,122.0,928.0,456.3934426,Breakdown
+356,Driver_356,42,Male,72.0,624.0,520.0,Breakdown
+357,Driver_357,21,Male,41.0,670.0,980.4878049,Normal
+358,Driver_358,69,Female,60.0,440.0,440.0,Normal
+359,Driver_359,26,Male,47.0,450.0,574.4680851,Normal
+360,Driver_360,45,Female,143.0,294.0,123.3566434,Traffic Jam
+361,Driver_361,47,Male,36.0,513.0,855.0,Traffic Jam
+362,Driver_362,64,Male,193.0,792.0,246.2176166,Normal
+363,Driver_363,41,Female,94.0,910.0,580.8510638,Accident
+364,Driver_364,50,Male,42.0,137.0,195.7142857,Normal
+366,Driver_366,26,Female,134.0,54.0,24.17910448,Accident
+367,Driver_367,25,Female,67.0,211.0,188.9552239,Traffic Jam
+368,Driver_368,41,Female,31.0,337.0,652.2580645,Traffic Jam
+371,Driver_371,18,Male,195.0,391.0,120.3076923,Normal
+372,Driver_372,29,Female,26.0,412.0,950.7692308,Traffic Jam
+375,Driver_375,43,Female,81.0,553.0,409.6296296,Traffic Jam
+376,Driver_376,50,Female,55.0,667.0,727.6363636,Accident
+377,Driver_377,60,Female,125.0,351.0,168.48,Traffic Jam
+378,Driver_378,32,Male,43.0,973.0,1357.674419,Accident
+379,Driver_379,40,Female,67.0,442.0,395.8208955,Normal
+380,Driver_380,46,Female,20.0,302.0,906.0,Traffic Jam
+381,Driver_381,38,Male,119.0,849.0,428.0672269,Breakdown
+382,Driver_382,36,Female,14.0,315.0,1350.0,Accident
+383,Driver_383,22,Male,14.0,152.0,651.4285714,Accident
+384,Driver_384,40,Female,80.0,767.0,575.25,Breakdown
+385,Driver_385,53,Male,191.0,243.0,76.33507853,Accident
+386,Driver_386,37,Female,117.0,747.0,383.0769231,Traffic Jam
+387,Driver_387,25,Male,43.0,969.0,1352.093023,Accident
+388,Driver_388,26,Female,155.0,465.0,180.0,Accident
+389,Driver_389,31,Female,102.0,246.0,144.7058824,Accident
+390,Driver_390,23,Male,148.0,894.0,362.4324324,Breakdown
+391,Driver_391,18,Female,23.0,531.0,1385.217391,Traffic Jam
+394,Driver_394,33,Male,65.0,487.0,449.5384615,Breakdown
+397,Driver_397,57,Female,185.0,997.0,323.3513514,Traffic Jam
+398,Driver_398,46,Female,68.0,752.0,663.5294118,Traffic Jam
+399,Driver_399,63,Male,45.0,833.0,1110.666667,Normal
+400,Driver_400,44,Male,167.0,388.0,139.4011976,Normal
+402,Driver_402,64,Male,86.0,917.0,639.7674419,Breakdown
+403,Driver_403,67,Female,17.0,176.0,621.1764706,Breakdown
+404,Driver_404,45,Male,180.0,447.0,149.0,Traffic Jam
+405,Driver_405,69,Female,136.0,354.0,156.1764706,Accident
+406,Driver_406,53,Female,5.0,25.0,300.0,Accident
+407,Driver_407,59,Female,86.0,723.0,504.4186047,Accident
+408,Driver_408,36,Female,82.0,809.0,591.9512195,Traffic Jam
+409,Driver_409,52,Female,10.0,138.0,828.0,Traffic Jam
+410,Driver_410,69,Female,62.0,329.0,318.3870968,Normal
+411,Driver_411,48,Female,29.0,200.0,413.7931034,Breakdown
+412,Driver_412,61,Male,139.0,477.0,205.8992806,Normal
+413,Driver_413,36,Male,158.0,298.0,113.164557,Accident
+414,Driver_414,63,Male,71.0,788.0,665.915493,Accident
+415,Driver_415,41,Female,58.0,727.0,752.0689655,Breakdown
+416,Driver_416,19,Male,42.0,324.0,462.8571429,Traffic Jam
+417,Driver_417,24,Male,71.0,975.0,823.943662,Normal
+418,Driver_418,60,Male,153.0,128.0,50.19607843,Breakdown
+419,Driver_419,66,Male,54.0,632.0,702.2222222,Accident
+420,Driver_420,48,Female,118.0,835.0,424.5762712,Accident
+421,Driver_421,34,Female,83.0,728.0,526.2650602,Breakdown
+422,Driver_422,44,Male,25.0,236.0,566.4,Normal
+423,Driver_423,53,Female,173.0,25.0,8.670520231,Traffic Jam
+424,Driver_424,67,Female,121.0,597.0,296.0330579,Accident
+425,Driver_425,60,Female,131.0,676.0,309.6183206,Traffic Jam
+426,Driver_426,27,Female,116.0,891.0,460.862069,Accident
+427,Driver_427,62,Female,83.0,431.0,311.5662651,Traffic Jam
+428,Driver_428,31,Male,37.0,545.0,883.7837838,Accident
+429,Driver_429,24,Female,161.0,803.0,299.2546584,Accident
+430,Driver_430,56,Male,188.0,555.0,177.1276596,Breakdown
+431,Driver_431,57,Female,108.0,861.0,478.3333333,Accident
+432,Driver_432,26,Male,7.0,38.0,325.7142857,Traffic Jam
+433,Driver_433,31,Male,188.0,229.0,73.08510638,Normal
+434,Driver_434,25,Female,165.0,851.0,309.4545455,Breakdown
+435,Driver_435,34,Male,84.0,56.0,40.0,Traffic Jam
+436,Driver_436,40,Female,98.0,875.0,535.7142857,Breakdown
+438,Driver_438,43,Male,173.0,356.0,123.4682081,Breakdown
+439,Driver_439,26,Female,167.0,66.0,23.71257485,Traffic Jam
+440,Driver_440,53,Male,33.0,350.0,636.3636364,Accident
+441,Driver_441,24,Female,97.0,661.0,408.8659794,Breakdown
+442,Driver_442,35,Male,65.0,230.0,212.3076923,Accident
+443,Driver_443,25,Female,87.0,356.0,245.5172414,Breakdown
+444,Driver_444,38,Male,68.0,815.0,719.1176471,Breakdown
+445,Driver_445,43,Male,24.0,355.0,887.5,Traffic Jam
+446,Driver_446,20,Female,6.0,92.0,920.0,Traffic Jam
+447,Driver_447,34,Female,97.0,63.0,38.96907216,Accident
+448,Driver_448,68,Male,114.0,63.0,33.15789474,Breakdown
+449,Driver_449,63,Female,60.0,498.0,498.0,Normal
+450,Driver_450,41,Male,61.0,252.0,247.8688525,Accident
+451,Driver_451,42,Male,187.0,591.0,189.6256684,Breakdown
+452,Driver_452,22,Male,121.0,875.0,433.8842975,Breakdown
+453,Driver_453,54,Female,29.0,159.0,328.9655172,Breakdown
+454,Driver_454,62,Female,28.0,348.0,745.7142857,Accident
+455,Driver_455,67,Female,152.0,52.0,20.52631579,Traffic Jam
+456,Driver_456,41,Male,131.0,517.0,236.7938931,Breakdown
+457,Driver_457,48,Male,149.0,709.0,285.5033557,Traffic Jam
+459,Driver_459,38,Female,84.0,746.0,532.8571429,Traffic Jam
+461,Driver_461,55,Female,119.0,260.0,131.092437,Normal
+463,Driver_463,45,Female,154.0,493.0,192.0779221,Normal
+464,Driver_464,47,Female,192.0,101.0,31.5625,Accident
+465,Driver_465,51,Female,110.0,412.0,224.7272727,Normal
+466,Driver_466,69,Male,131.0,654.0,299.5419847,Traffic Jam
+467,Driver_467,69,Male,53.0,301.0,340.754717,Normal
+468,Driver_468,40,Male,37.0,257.0,416.7567568,Traffic Jam
+470,Driver_470,59,Female,120.0,734.0,367.0,Traffic Jam
+471,Driver_471,67,Female,80.0,847.0,635.25,Accident
+472,Driver_472,27,Female,139.0,129.0,55.68345324,Normal
+473,Driver_473,18,Male,130.0,257.0,118.6153846,Normal
+474,Driver_474,37,Male,54.0,97.0,107.7777778,Breakdown
+477,Driver_477,38,Male,125.0,30.0,14.4,Traffic Jam
+478,Driver_478,66,Male,78.0,390.0,300.0,Breakdown
+479,Driver_479,21,Female,133.0,70.0,31.57894737,Normal
+480,Driver_480,60,Male,78.0,698.0,536.9230769,Normal
+481,Driver_481,19,Female,81.0,287.0,212.5925926,Breakdown
+482,Driver_482,38,Male,110.0,787.0,429.2727273,Traffic Jam
+483,Driver_483,54,Female,108.0,619.0,343.8888889,Traffic Jam
+484,Driver_484,22,Male,30.0,17.0,34.0,Breakdown
+485,Driver_485,34,Male,98.0,888.0,543.6734694,Normal
+487,Driver_487,65,Female,128.0,204.0,95.625,Traffic Jam
+488,Driver_488,28,Female,93.0,10.0,6.451612903,Normal
+489,Driver_489,63,Male,44.0,906.0,1235.454545,Normal
+490,Driver_490,58,Female,172.0,731.0,255.0,Breakdown
+491,Driver_491,48,Male,127.0,77.0,36.37795276,Breakdown
+492,Driver_492,45,Female,115.0,705.0,367.826087,Accident
+493,Driver_493,61,Male,189.0,232.0,73.65079365,Breakdown
+496,Driver_496,24,Female,157.0,846.0,323.3121019,Breakdown
+497,Driver_497,27,Male,91.0,856.0,564.3956044,Normal
+498,Driver_498,45,Female,162.0,955.0,353.7037037,Accident
+499,Driver_499,65,Male,187.0,634.0,203.4224599,Accident
+500,Driver_500,53,Male,21.0,433.0,1237.142857,Traffic Jam
+501,Driver_501,37,Male,63.0,412.0,392.3809524,Breakdown
+502,Driver_502,30,Male,101.0,876.0,520.3960396,Breakdown
+503,Driver_503,36,Female,145.0,154.0,63.72413793,Normal
+505,Driver_505,28,Male,129.0,112.0,52.09302326,Accident
+506,Driver_506,52,Female,143.0,589.0,247.1328671,Accident
+508,Driver_508,61,Female,181.0,774.0,256.5745856,Traffic Jam
+509,Driver_509,21,Female,150.0,35.0,14.0,Normal
+510,Driver_510,30,Male,114.0,77.0,40.52631579,Traffic Jam
+511,Driver_511,54,Male,175.0,188.0,64.45714286,Normal
+512,Driver_512,19,Female,194.0,556.0,171.9587629,Normal
+514,Driver_514,18,Female,137.0,828.0,362.6277372,Traffic Jam
+515,Driver_515,57,Female,40.0,278.0,417.0,Traffic Jam
+516,Driver_516,42,Female,182.0,485.0,159.8901099,Breakdown
+517,Driver_517,54,Female,179.0,498.0,166.9273743,Breakdown
+518,Driver_518,53,Female,47.0,511.0,652.3404255,Traffic Jam
+520,Driver_520,24,Male,138.0,525.0,228.2608696,Traffic Jam
+521,Driver_521,21,Female,134.0,881.0,394.4776119,Traffic Jam
+522,Driver_522,52,Male,118.0,99.0,50.33898305,Traffic Jam
+523,Driver_523,58,Male,172.0,646.0,225.3488372,Accident
+524,Driver_524,51,Female,72.0,789.0,657.5,Normal
+525,Driver_525,46,Female,136.0,637.0,281.0294118,Traffic Jam
+528,Driver_528,50,Female,197.0,280.0,85.27918782,Breakdown
+529,Driver_529,63,Female,100.0,532.0,319.2,Accident
+530,Driver_530,69,Female,106.0,598.0,338.490566,Normal
+531,Driver_531,27,Female,157.0,816.0,311.8471338,Breakdown
+532,Driver_532,23,Male,155.0,775.0,300.0,Normal
+533,Driver_533,51,Male,145.0,69.0,28.55172414,Normal
+534,Driver_534,25,Male,186.0,202.0,65.16129032,Accident
+535,Driver_535,48,Male,139.0,537.0,231.7985612,Accident
+536,Driver_536,26,Male,49.0,944.0,1155.918367,Normal
+537,Driver_537,38,Male,72.0,929.0,774.1666667,Accident
+538,Driver_538,25,Male,88.0,971.0,662.0454545,Accident
+540,Driver_540,39,Female,112.0,476.0,255.0,Breakdown
+542,Driver_542,62,Female,57.0,739.0,777.8947368,Normal
+543,Driver_543,21,Male,178.0,151.0,50.8988764,Normal
+544,Driver_544,56,Male,143.0,126.0,52.86713287,Accident
+545,Driver_545,38,Female,185.0,29.0,9.405405405,Accident
+546,Driver_546,25,Male,131.0,285.0,130.5343511,Normal
+547,Driver_547,37,Male,118.0,626.0,318.3050847,Breakdown
+548,Driver_548,49,Male,188.0,975.0,311.1702128,Normal
+549,Driver_549,18,Male,167.0,870.0,312.5748503,Accident
+550,Driver_550,23,Female,157.0,602.0,230.0636943,Accident
+551,Driver_551,45,Female,181.0,134.0,44.4198895,Traffic Jam
+552,Driver_552,61,Female,67.0,579.0,518.5074627,Normal
+553,Driver_553,48,Female,56.0,420.0,450.0,Accident
+554,Driver_554,27,Male,119.0,716.0,361.0084034,Breakdown
+555,Driver_555,37,Female,79.0,948.0,720.0,Accident
+556,Driver_556,25,Male,45.0,590.0,786.6666667,Accident
+557,Driver_557,39,Female,90.0,996.0,664.0,Normal
+558,Driver_558,55,Male,79.0,697.0,529.3670886,Traffic Jam
+560,Driver_560,26,Male,133.0,479.0,216.0902256,Accident
+561,Driver_561,61,Male,158.0,262.0,99.49367089,Traffic Jam
+562,Driver_562,64,Male,186.0,30.0,9.677419355,Normal
+563,Driver_563,18,Male,68.0,92.0,81.17647059,Breakdown
+564,Driver_564,58,Male,59.0,950.0,966.1016949,Breakdown
+565,Driver_565,69,Male,32.0,450.0,843.75,Traffic Jam
+566,Driver_566,56,Male,37.0,318.0,515.6756757,Traffic Jam
+567,Driver_567,43,Male,171.0,489.0,171.5789474,Traffic Jam
+568,Driver_568,28,Male,125.0,155.0,74.4,Normal
+569,Driver_569,69,Female,60.0,285.0,285.0,Normal
+570,Driver_570,52,Female,45.0,424.0,565.3333333,Breakdown
+571,Driver_571,41,Female,29.0,610.0,1262.068966,Breakdown
+572,Driver_572,50,Female,155.0,106.0,41.03225806,Accident
+574,Driver_574,44,Male,29.0,110.0,227.5862069,Accident
+575,Driver_575,32,Female,126.0,929.0,442.3809524,Traffic Jam
+576,Driver_576,50,Female,72.0,378.0,315.0,Traffic Jam
+577,Driver_577,69,Male,75.0,261.0,208.8,Traffic Jam
+578,Driver_578,24,Female,97.0,439.0,271.5463918,Normal
+579,Driver_579,51,Female,38.0,385.0,607.8947368,Accident
+581,Driver_581,68,Female,89.0,180.0,121.3483146,Normal
+582,Driver_582,63,Female,32.0,612.0,1147.5,Traffic Jam
+583,Driver_583,59,Male,178.0,965.0,325.2808989,Breakdown
+584,Driver_584,22,Male,40.0,795.0,1192.5,Accident
+585,Driver_585,47,Male,198.0,528.0,160.0,Normal
+586,Driver_586,45,Male,30.0,498.0,996.0,Breakdown
+587,Driver_587,35,Female,150.0,733.0,293.2,Breakdown
+588,Driver_588,53,Female,123.0,875.0,426.8292683,Accident
+589,Driver_589,20,Female,75.0,913.0,730.4,Accident
+591,Driver_591,63,Female,196.0,71.0,21.73469388,Traffic Jam
+592,Driver_592,33,Male,63.0,761.0,724.7619048,Traffic Jam
+593,Driver_593,54,Female,4.0,96.0,1440.0,Accident
+594,Driver_594,59,Male,177.0,3.0,1.016949153,Breakdown
+595,Driver_595,22,Female,116.0,509.0,263.2758621,Traffic Jam
+596,Driver_596,67,Female,157.0,274.0,104.7133758,Breakdown
+597,Driver_597,68,Male,191.0,243.0,76.33507853,Normal
+598,Driver_598,31,Male,61.0,834.0,820.3278689,Normal
+599,Driver_599,48,Male,91.0,161.0,106.1538462,Normal
+600,Driver_600,63,Female,111.0,226.0,122.1621622,Traffic Jam
+601,Driver_601,41,Female,104.0,423.0,244.0384615,Accident
+602,Driver_602,52,Male,90.0,581.0,387.3333333,Normal
+604,Driver_604,27,Male,73.0,261.0,214.5205479,Breakdown
+605,Driver_605,44,Male,178.0,336.0,113.258427,Traffic Jam
+606,Driver_606,44,Female,94.0,128.0,81.70212766,Traffic Jam
+607,Driver_607,40,Male,17.0,278.0,981.1764706,Breakdown
+608,Driver_608,30,Male,199.0,890.0,268.3417085,Traffic Jam
+609,Driver_609,33,Female,56.0,372.0,398.5714286,Breakdown
+610,Driver_610,52,Female,35.0,103.0,176.5714286,Accident
+611,Driver_611,44,Male,47.0,779.0,994.4680851,Breakdown
+612,Driver_612,69,Female,48.0,273.0,341.25,Accident
+613,Driver_613,56,Male,119.0,3.0,1.512605042,Traffic Jam
+614,Driver_614,64,Female,199.0,815.0,245.7286432,Normal
+615,Driver_615,34,Female,117.0,702.0,360.0,Traffic Jam
+616,Driver_616,65,Male,67.0,175.0,156.7164179,Normal
+617,Driver_617,58,Female,123.0,111.0,54.14634146,Traffic Jam
+618,Driver_618,18,Male,199.0,289.0,87.13567839,Breakdown
+619,Driver_619,28,Male,62.0,232.0,224.516129,Breakdown
+622,Driver_622,25,Male,97.0,386.0,238.7628866,Normal
+623,Driver_623,48,Female,55.0,293.0,319.6363636,Breakdown
+624,Driver_624,24,Female,174.0,858.0,295.862069,Accident
+625,Driver_625,63,Female,38.0,265.0,418.4210526,Normal
+626,Driver_626,48,Male,49.0,560.0,685.7142857,Normal
+629,Driver_629,56,Male,193.0,164.0,50.98445596,Breakdown
+630,Driver_630,61,Female,66.0,27.0,24.54545455,Traffic Jam
+631,Driver_631,36,Male,62.0,191.0,184.8387097,Accident
+633,Driver_633,46,Male,189.0,949.0,301.2698413,Accident
+634,Driver_634,19,Male,194.0,663.0,205.0515464,Accident
+636,Driver_636,20,Male,159.0,642.0,242.2641509,Normal
+637,Driver_637,68,Male,138.0,862.0,374.7826087,Breakdown
+638,Driver_638,46,Male,20.0,260.0,780.0,Accident
+639,Driver_639,32,Female,100.0,260.0,156.0,Normal
+641,Driver_641,45,Male,120.0,117.0,58.5,Breakdown
+642,Driver_642,54,Male,52.0,165.0,190.3846154,Accident
+643,Driver_643,49,Male,199.0,427.0,128.7437186,Accident
+644,Driver_644,47,Male,157.0,367.0,140.2547771,Traffic Jam
+645,Driver_645,68,Male,133.0,21.0,9.473684211,Traffic Jam
+646,Driver_646,64,Male,14.0,234.0,1002.857143,Accident
+647,Driver_647,47,Male,114.0,134.0,70.52631579,Breakdown
+648,Driver_648,68,Male,51.0,729.0,857.6470588,Traffic Jam
+649,Driver_649,51,Male,32.0,84.0,157.5,Traffic Jam
+650,Driver_650,30,Male,151.0,695.0,276.1589404,Accident
+651,Driver_651,50,Male,91.0,742.0,489.2307692,Accident
+653,Driver_653,34,Female,120.0,852.0,426.0,Traffic Jam
+654,Driver_654,20,Male,65.0,152.0,140.3076923,Traffic Jam
+655,Driver_655,26,Female,75.0,49.0,39.2,Accident
+656,Driver_656,69,Female,87.0,863.0,595.1724138,Traffic Jam
+657,Driver_657,28,Female,198.0,671.0,203.3333333,Accident
+658,Driver_658,66,Male,40.0,218.0,327.0,Normal
+659,Driver_659,44,Female,188.0,904.0,288.5106383,Accident
+661,Driver_661,19,Male,140.0,653.0,279.8571429,Accident
+662,Driver_662,18,Female,163.0,517.0,190.3067485,Normal
+663,Driver_663,23,Female,62.0,241.0,233.2258065,Accident
+664,Driver_664,42,Female,197.0,924.0,281.4213198,Accident
+665,Driver_665,52,Female,62.0,205.0,198.3870968,Accident
+666,Driver_666,33,Male,186.0,624.0,201.2903226,Normal
+667,Driver_667,21,Female,76.0,715.0,564.4736842,Normal
+669,Driver_669,55,Female,128.0,428.0,200.625,Traffic Jam
+671,Driver_671,37,Female,90.0,239.0,159.3333333,Accident
+672,Driver_672,42,Female,112.0,651.0,348.75,Accident
+673,Driver_673,24,Female,107.0,756.0,423.9252336,Breakdown
+674,Driver_674,38,Male,149.0,44.0,17.71812081,Traffic Jam
+675,Driver_675,24,Male,78.0,775.0,596.1538462,Breakdown
+677,Driver_677,69,Female,67.0,513.0,459.4029851,Accident
+678,Driver_678,24,Male,105.0,564.0,322.2857143,Breakdown
+679,Driver_679,20,Female,145.0,675.0,279.3103448,Traffic Jam
+681,Driver_681,46,Male,26.0,24.0,55.38461538,Breakdown
+682,Driver_682,56,Male,191.0,449.0,141.0471204,Accident
+683,Driver_683,55,Female,155.0,712.0,275.6129032,Breakdown
+684,Driver_684,23,Male,169.0,927.0,329.112426,Accident
+686,Driver_686,27,Male,45.0,801.0,1068.0,Accident
+687,Driver_687,54,Female,176.0,3.0,1.022727273,Accident
+688,Driver_688,31,Female,56.0,679.0,727.5,Normal
+689,Driver_689,39,Female,58.0,269.0,278.2758621,Traffic Jam
+691,Driver_691,35,Female,95.0,895.0,565.2631579,Normal
+692,Driver_692,53,Female,135.0,765.0,340.0,Normal
+693,Driver_693,63,Female,26.0,73.0,168.4615385,Traffic Jam
+695,Driver_695,26,Female,196.0,398.0,121.8367347,Breakdown
+696,Driver_696,43,Female,43.0,895.0,1248.837209,Breakdown
+697,Driver_697,39,Male,175.0,987.0,338.4,Traffic Jam
+698,Driver_698,63,Female,125.0,132.0,63.36,Accident
+699,Driver_699,55,Male,92.0,231.0,150.6521739,Normal
+700,Driver_700,40,Male,72.0,455.0,379.1666667,Accident
+701,Driver_701,34,Female,186.0,647.0,208.7096774,Breakdown
+702,Driver_702,43,Male,27.0,405.0,900.0,Breakdown
+704,Driver_704,55,Female,135.0,3.0,1.333333333,Normal
+705,Driver_705,19,Male,181.0,982.0,325.5248619,Accident
+706,Driver_706,23,Female,119.0,176.0,88.7394958,Accident
+707,Driver_707,24,Male,26.0,512.0,1181.538462,Breakdown
+708,Driver_708,30,Male,123.0,693.0,338.0487805,Normal
+709,Driver_709,44,Male,37.0,571.0,925.9459459,Normal
+710,Driver_710,28,Male,93.0,111.0,71.61290323,Breakdown
+711,Driver_711,32,Female,177.0,595.0,201.6949153,Breakdown
+712,Driver_712,26,Female,20.0,255.0,765.0,Breakdown
+713,Driver_713,25,Female,119.0,593.0,298.9915966,Breakdown
+714,Driver_714,63,Male,184.0,314.0,102.3913043,Accident
+715,Driver_715,23,Female,189.0,684.0,217.1428571,Traffic Jam
+716,Driver_716,65,Male,183.0,290.0,95.08196721,Breakdown
+717,Driver_717,60,Male,151.0,491.0,195.0993377,Normal
+718,Driver_718,21,Male,185.0,70.0,22.7027027,Traffic Jam
+719,Driver_719,28,Male,137.0,222.0,97.22627737,Breakdown
+720,Driver_720,68,Male,128.0,80.0,37.5,Accident
+721,Driver_721,45,Male,102.0,90.0,52.94117647,Breakdown
+722,Driver_722,43,Female,147.0,494.0,201.6326531,Breakdown
+723,Driver_723,21,Female,199.0,281.0,84.72361809,Breakdown
+724,Driver_724,32,Female,50.0,357.0,428.4,Traffic Jam
+725,Driver_725,36,Male,38.0,701.0,1106.842105,Traffic Jam
+726,Driver_726,23,Male,195.0,890.0,273.8461538,Breakdown
+727,Driver_727,22,Female,158.0,833.0,316.3291139,Normal
+728,Driver_728,35,Female,37.0,446.0,723.2432432,Normal
+729,Driver_729,23,Female,184.0,78.0,25.43478261,Breakdown
+730,Driver_730,48,Male,126.0,525.0,250.0,Traffic Jam
+731,Driver_731,42,Female,133.0,711.0,320.7518797,Normal
+732,Driver_732,21,Female,59.0,114.0,115.9322034,Traffic Jam
+733,Driver_733,23,Male,189.0,562.0,178.4126984,Traffic Jam
+734,Driver_734,58,Male,31.0,132.0,255.483871,Breakdown
+735,Driver_735,54,Female,198.0,929.0,281.5151515,Breakdown
+736,Driver_736,67,Female,89.0,116.0,78.20224719,Breakdown
+737,Driver_737,42,Male,145.0,690.0,285.5172414,Breakdown
+738,Driver_738,51,Male,31.0,740.0,1432.258065,Accident
+739,Driver_739,36,Male,159.0,398.0,150.1886792,Traffic Jam
+740,Driver_740,51,Male,84.0,76.0,54.28571429,Accident
+741,Driver_741,32,Female,90.0,18.0,12.0,Normal
+742,Driver_742,67,Female,39.0,69.0,106.1538462,Traffic Jam
+743,Driver_743,25,Female,178.0,472.0,159.1011236,Accident
+744,Driver_744,61,Female,74.0,304.0,246.4864865,Accident
+745,Driver_745,64,Female,38.0,331.0,522.6315789,Breakdown
+746,Driver_746,66,Male,68.0,423.0,373.2352941,Breakdown
+747,Driver_747,51,Male,123.0,629.0,306.8292683,Accident
+748,Driver_748,35,Female,39.0,246.0,378.4615385,Traffic Jam
+749,Driver_749,47,Male,127.0,871.0,411.496063,Normal
+751,Driver_751,64,Female,163.0,549.0,202.0858896,Breakdown
+752,Driver_752,50,Female,123.0,478.0,233.1707317,Normal
+753,Driver_753,52,Female,139.0,794.0,342.7338129,Accident
+754,Driver_754,69,Male,103.0,548.0,319.223301,Traffic Jam
+755,Driver_755,41,Female,75.0,456.0,364.8,Accident
+756,Driver_756,43,Female,54.0,961.0,1067.777778,Normal
+757,Driver_757,64,Female,164.0,833.0,304.7560976,Accident
+758,Driver_758,68,Male,82.0,9.0,6.585365854,Accident
+759,Driver_759,61,Female,179.0,964.0,323.1284916,Normal
+760,Driver_760,59,Male,162.0,775.0,287.037037,Normal
+761,Driver_761,64,Male,186.0,102.0,32.90322581,Accident
+762,Driver_762,18,Female,80.0,392.0,294.0,Normal
+764,Driver_764,27,Male,137.0,462.0,202.3357664,Traffic Jam
+765,Driver_765,36,Female,101.0,83.0,49.30693069,Normal
+767,Driver_767,25,Male,145.0,530.0,219.3103448,Traffic Jam
+768,Driver_768,21,Female,153.0,772.0,302.745098,Accident
+769,Driver_769,66,Male,94.0,127.0,81.06382979,Normal
+770,Driver_770,30,Female,123.0,265.0,129.2682927,Breakdown
+771,Driver_771,55,Female,101.0,48.0,28.51485149,Traffic Jam
+772,Driver_772,63,Female,187.0,556.0,178.3957219,Normal
+773,Driver_773,66,Male,123.0,702.0,342.4390244,Breakdown
+774,Driver_774,63,Male,59.0,772.0,785.0847458,Traffic Jam
+775,Driver_775,36,Male,186.0,301.0,97.09677419,Normal
+776,Driver_776,69,Female,18.0,76.0,253.3333333,Breakdown
+778,Driver_778,25,Female,129.0,51.0,23.72093023,Breakdown
+779,Driver_779,44,Female,27.0,139.0,308.8888889,Breakdown
+780,Driver_780,67,Male,10.0,172.0,1032.0,Accident
+781,Driver_781,64,Female,195.0,720.0,221.5384615,Breakdown
+782,Driver_782,47,Male,189.0,988.0,313.6507937,Normal
+783,Driver_783,21,Female,16.0,103.0,386.25,Traffic Jam
+784,Driver_784,28,Male,27.0,575.0,1277.777778,Traffic Jam
+785,Driver_785,38,Female,124.0,484.0,234.1935484,Normal
+789,Driver_789,34,Female,153.0,374.0,146.6666667,Breakdown
+790,Driver_790,60,Male,67.0,420.0,376.119403,Traffic Jam
+791,Driver_791,68,Female,59.0,342.0,347.7966102,Accident
+792,Driver_792,46,Female,116.0,925.0,478.4482759,Traffic Jam
+793,Driver_793,44,Female,164.0,956.0,349.7560976,Breakdown
+794,Driver_794,41,Female,172.0,226.0,78.8372093,Normal
+795,Driver_795,66,Female,113.0,90.0,47.78761062,Normal
+796,Driver_796,20,Male,111.0,459.0,248.1081081,Normal
+797,Driver_797,56,Male,166.0,514.0,185.7831325,Accident
+798,Driver_798,27,Male,170.0,507.0,178.9411765,Traffic Jam
+799,Driver_799,20,Female,164.0,406.0,148.5365854,Normal
+800,Driver_800,62,Male,68.0,922.0,813.5294118,Breakdown
+801,Driver_801,59,Male,91.0,651.0,429.2307692,Normal
+803,Driver_803,54,Female,141.0,426.0,181.2765957,Traffic Jam
+804,Driver_804,44,Male,169.0,14.0,4.970414201,Traffic Jam
+805,Driver_805,22,Male,72.0,692.0,576.6666667,Traffic Jam
+806,Driver_806,59,Male,134.0,323.0,144.6268657,Breakdown
+807,Driver_807,28,Female,94.0,211.0,134.6808511,Traffic Jam
+808,Driver_808,30,Male,140.0,213.0,91.28571429,Traffic Jam
+809,Driver_809,58,Female,98.0,648.0,396.7346939,Traffic Jam
+810,Driver_810,51,Female,131.0,809.0,370.5343511,Normal
+811,Driver_811,55,Male,16.0,313.0,1173.75,Breakdown
+813,Driver_813,50,Male,40.0,38.0,57.0,Breakdown
+814,Driver_814,51,Female,183.0,431.0,141.3114754,Normal
+815,Driver_815,44,Male,157.0,212.0,81.01910828,Accident
+816,Driver_816,53,Male,181.0,475.0,157.4585635,Breakdown
+818,Driver_818,68,Male,101.0,391.0,232.2772277,Normal
+819,Driver_819,42,Female,23.0,513.0,1338.26087,Accident
+820,Driver_820,36,Male,122.0,393.0,193.2786885,Normal
+821,Driver_821,38,Female,164.0,726.0,265.6097561,Accident
+822,Driver_822,48,Female,187.0,380.0,121.9251337,Breakdown
+823,Driver_823,46,Female,34.0,240.0,423.5294118,Accident
+824,Driver_824,26,Female,198.0,678.0,205.4545455,Accident
+825,Driver_825,36,Female,134.0,964.0,431.641791,Normal
+826,Driver_826,43,Male,88.0,687.0,468.4090909,Traffic Jam
+827,Driver_827,42,Male,76.0,745.0,588.1578947,Normal
+829,Driver_829,60,Male,95.0,861.0,543.7894737,Breakdown
+830,Driver_830,46,Male,48.0,64.0,80.0,Accident
+831,Driver_831,42,Female,37.0,58.0,94.05405405,Breakdown
+833,Driver_833,21,Female,113.0,552.0,293.0973451,Accident
+834,Driver_834,62,Female,108.0,706.0,392.2222222,Breakdown
+836,Driver_836,63,Male,95.0,702.0,443.3684211,Accident
+837,Driver_837,18,Female,188.0,366.0,116.8085106,Breakdown
+838,Driver_838,28,Male,127.0,710.0,335.4330709,Traffic Jam
+841,Driver_841,45,Male,97.0,352.0,217.7319588,Normal
+842,Driver_842,53,Male,105.0,937.0,535.4285714,Breakdown
+843,Driver_843,24,Female,13.0,74.0,341.5384615,Traffic Jam
+845,Driver_845,52,Male,41.0,889.0,1300.97561,Traffic Jam
+846,Driver_846,68,Male,172.0,520.0,181.3953488,Normal
+847,Driver_847,68,Female,51.0,356.0,418.8235294,Traffic Jam
+848,Driver_848,56,Female,107.0,944.0,529.3457944,Traffic Jam
+849,Driver_849,38,Male,144.0,710.0,295.8333333,Normal
+850,Driver_850,61,Female,165.0,682.0,248.0,Normal
+852,Driver_852,54,Female,164.0,247.0,90.36585366,Breakdown
+853,Driver_853,63,Male,114.0,891.0,468.9473684,Breakdown
+854,Driver_854,59,Female,132.0,854.0,388.1818182,Accident
+855,Driver_855,20,Male,47.0,780.0,995.7446809,Traffic Jam
+856,Driver_856,51,Male,128.0,516.0,241.875,Accident
+857,Driver_857,30,Female,49.0,275.0,336.7346939,Normal
+858,Driver_858,33,Male,165.0,932.0,338.9090909,Normal
+859,Driver_859,51,Male,44.0,47.0,64.09090909,Normal
+860,Driver_860,41,Female,69.0,362.0,314.7826087,Normal
+861,Driver_861,30,Female,104.0,146.0,84.23076923,Breakdown
+862,Driver_862,23,Male,16.0,112.0,420.0,Normal
+863,Driver_863,56,Male,16.0,156.0,585.0,Normal
+864,Driver_864,19,Male,10.0,55.0,330.0,Breakdown
+866,Driver_866,24,Female,151.0,714.0,283.7086093,Accident
+867,Driver_867,24,Male,175.0,404.0,138.5142857,Traffic Jam
+868,Driver_868,56,Male,67.0,200.0,179.1044776,Traffic Jam
+869,Driver_869,56,Male,166.0,584.0,211.0843373,Normal
+871,Driver_871,68,Female,94.0,428.0,273.1914894,Normal
+873,Driver_873,68,Male,170.0,623.0,219.8823529,Traffic Jam
+874,Driver_874,68,Female,47.0,687.0,877.0212766,Accident
+876,Driver_876,20,Female,55.0,674.0,735.2727273,Breakdown
+877,Driver_877,30,Female,74.0,75.0,60.81081081,Breakdown
+878,Driver_878,47,Male,108.0,376.0,208.8888889,Accident
+880,Driver_880,69,Female,83.0,477.0,344.8192771,Traffic Jam
+881,Driver_881,26,Female,66.0,815.0,740.9090909,Accident
+882,Driver_882,23,Male,147.0,929.0,379.1836735,Normal
+883,Driver_883,61,Male,159.0,212.0,80.0,Normal
+884,Driver_884,19,Male,114.0,424.0,223.1578947,Traffic Jam
+885,Driver_885,61,Female,19.0,415.0,1310.526316,Accident
+886,Driver_886,33,Female,39.0,224.0,344.6153846,Traffic Jam
+887,Driver_887,30,Female,167.0,880.0,316.1676647,Traffic Jam
+888,Driver_888,65,Male,61.0,176.0,173.1147541,Accident
+889,Driver_889,30,Male,97.0,898.0,555.4639175,Breakdown
+890,Driver_890,39,Male,172.0,929.0,324.0697674,Accident
+891,Driver_891,36,Female,182.0,895.0,295.0549451,Normal
+892,Driver_892,43,Female,122.0,105.0,51.63934426,Accident
+893,Driver_893,31,Male,190.0,370.0,116.8421053,Breakdown
+894,Driver_894,48,Male,144.0,704.0,293.3333333,Accident
+895,Driver_895,46,Female,80.0,120.0,90.0,Normal
+896,Driver_896,62,Female,134.0,302.0,135.2238806,Normal
+897,Driver_897,59,Female,196.0,184.0,56.32653061,Breakdown
+898,Driver_898,39,Male,45.0,111.0,148.0,Breakdown
+899,Driver_899,24,Male,158.0,887.0,336.835443,Normal
+900,Driver_900,54,Female,76.0,321.0,253.4210526,Normal
+901,Driver_901,66,Male,123.0,870.0,424.3902439,Accident
+902,Driver_902,58,Female,181.0,470.0,155.801105,Traffic Jam
+903,Driver_903,44,Male,161.0,663.0,247.0807453,Traffic Jam
+904,Driver_904,48,Male,90.0,412.0,274.6666667,Breakdown
+905,Driver_905,23,Male,146.0,6.0,2.465753425,Breakdown
+906,Driver_906,33,Female,134.0,878.0,393.1343284,Traffic Jam
+907,Driver_907,55,Male,120.0,36.0,18.0,Normal
+908,Driver_908,55,Female,130.0,878.0,405.2307692,Breakdown
+909,Driver_909,67,Male,154.0,804.0,313.2467532,Accident
+912,Driver_912,66,Female,191.0,196.0,61.57068063,Accident
+913,Driver_913,34,Female,62.0,157.0,151.9354839,Normal
+914,Driver_914,50,Female,57.0,604.0,635.7894737,Breakdown
+915,Driver_915,28,Male,37.0,764.0,1238.918919,Breakdown
+916,Driver_916,30,Male,173.0,138.0,47.86127168,Breakdown
+917,Driver_917,47,Female,149.0,300.0,120.8053691,Normal
+918,Driver_918,18,Female,107.0,644.0,361.1214953,Accident
+919,Driver_919,47,Female,69.0,108.0,93.91304348,Accident
+920,Driver_920,44,Male,49.0,908.0,1111.836735,Accident
+923,Driver_923,37,Female,52.0,619.0,714.2307692,Breakdown
+924,Driver_924,23,Male,70.0,747.0,640.2857143,Accident
+925,Driver_925,54,Female,175.0,133.0,45.6,Accident
+926,Driver_926,37,Male,73.0,670.0,550.6849315,Normal
+927,Driver_927,54,Male,138.0,317.0,137.826087,Breakdown
+928,Driver_928,23,Female,72.0,429.0,357.5,Breakdown
+929,Driver_929,46,Female,144.0,3.0,1.25,Accident
+930,Driver_930,30,Female,95.0,991.0,625.8947368,Breakdown
+931,Driver_931,44,Female,94.0,70.0,44.68085106,Breakdown
+932,Driver_932,67,Male,38.0,560.0,884.2105263,Accident
+933,Driver_933,37,Male,176.0,205.0,69.88636364,Traffic Jam
+934,Driver_934,30,Male,188.0,658.0,210.0,Traffic Jam
+935,Driver_935,56,Male,6.0,80.0,800.0,Traffic Jam
+936,Driver_936,25,Male,198.0,697.0,211.2121212,Breakdown
+937,Driver_937,34,Male,119.0,554.0,279.3277311,Normal
+939,Driver_939,18,Male,111.0,726.0,392.4324324,Accident
+940,Driver_940,41,Male,191.0,617.0,193.8219895,Normal
+941,Driver_941,33,Male,193.0,516.0,160.4145078,Accident
+942,Driver_942,28,Female,125.0,701.0,336.48,Normal
+944,Driver_944,21,Female,46.0,369.0,481.3043478,Normal
+946,Driver_946,66,Male,164.0,455.0,166.4634146,Traffic Jam
+947,Driver_947,27,Female,154.0,820.0,319.4805195,Normal
+948,Driver_948,38,Male,148.0,98.0,39.72972973,Normal
+949,Driver_949,55,Male,84.0,176.0,125.7142857,Accident
+950,Driver_950,66,Female,34.0,268.0,472.9411765,Accident
+951,Driver_951,35,Female,110.0,872.0,475.6363636,Traffic Jam
+952,Driver_952,27,Male,61.0,319.0,313.7704918,Normal
+953,Driver_953,62,Male,158.0,649.0,246.4556962,Accident
+954,Driver_954,33,Female,155.0,191.0,73.93548387,Normal
+955,Driver_955,56,Female,73.0,132.0,108.4931507,Normal
+956,Driver_956,32,Female,72.0,952.0,793.3333333,Breakdown
+957,Driver_957,51,Female,52.0,108.0,124.6153846,Normal
+958,Driver_958,22,Male,84.0,823.0,587.8571429,Accident
+959,Driver_959,34,Male,151.0,744.0,295.6291391,Breakdown
+960,Driver_960,54,Female,62.0,170.0,164.516129,Breakdown
+961,Driver_961,25,Male,48.0,311.0,388.75,Accident
+962,Driver_962,41,Female,187.0,282.0,90.48128342,Normal
+963,Driver_963,45,Female,43.0,878.0,1225.116279,Normal
+964,Driver_964,64,Male,170.0,391.0,138.0,Normal
+965,Driver_965,25,Female,141.0,72.0,30.63829787,Breakdown
+966,Driver_966,40,Female,111.0,745.0,402.7027027,Accident
+968,Driver_968,48,Male,155.0,350.0,135.483871,Breakdown
+969,Driver_969,34,Female,90.0,767.0,511.3333333,Normal
+971,Driver_971,65,Male,70.0,551.0,472.2857143,Normal
+972,Driver_972,65,Male,169.0,964.0,342.2485207,Traffic Jam
+973,Driver_973,68,Male,37.0,264.0,428.1081081,Accident
+975,Driver_975,41,Male,58.0,940.0,972.4137931,Normal
+976,Driver_976,32,Female,85.0,920.0,649.4117647,Accident
+978,Driver_978,48,Female,75.0,798.0,638.4,Breakdown
+980,Driver_980,52,Female,157.0,914.0,349.2993631,Accident
+981,Driver_981,35,Male,78.0,697.0,536.1538462,Accident
+982,Driver_982,53,Male,26.0,300.0,692.3076923,Accident
+983,Driver_983,25,Female,107.0,930.0,521.4953271,Normal
+984,Driver_984,63,Female,80.0,817.0,612.75,Breakdown
+985,Driver_985,66,Female,163.0,719.0,264.6625767,Accident
+986,Driver_986,55,Female,52.0,875.0,1009.615385,Traffic Jam
+987,Driver_987,22,Male,145.0,427.0,176.6896552,Normal
+988,Driver_988,31,Female,80.0,721.0,540.75,Traffic Jam
+989,Driver_989,55,Male,138.0,240.0,104.3478261,Breakdown
+990,Driver_990,37,Female,188.0,130.0,41.4893617,Breakdown
+991,Driver_991,61,Male,99.0,363.0,220.0,Traffic Jam
+992,Driver_992,26,Male,153.0,566.0,221.9607843,Normal
+993,Driver_993,50,Female,127.0,449.0,212.1259843,Accident
+994,Driver_994,35,Female,154.0,756.0,294.5454545,Accident
+995,Driver_995,23,Female,51.0,384.0,451.7647059,Accident
+996,Driver_996,54,Female,79.0,57.0,43.29113924,Accident
+997,Driver_997,19,Male,27.0,144.0,320.0,Accident
+998,Driver_998,47,Male,132.0,337.0,153.1818182,Traffic Jam
+999,Driver_999,23,Male,102.0,201.0,118.2352941,Traffic Jam
+1000,Driver_1000,34,Male,103.0,362.0,210.8737864,Normal
